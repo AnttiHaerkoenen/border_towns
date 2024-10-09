@@ -113,6 +113,7 @@ def save_kwic_by_word(
         output_dir: Path,
         rule: str,
         wordlist: Path,
+        redo_search: bool,
         window_size: int,
         size_limit: int,
         word_filter_rule: Union[str, Callable[[str], bool]],
@@ -129,7 +130,7 @@ def save_kwic_by_word(
         if word_filter_rule != 'all' and not word_filter_rule(term):
             continue
         output_file = output_dir / f"{term.replace(' ', '_')}.csv"
-        if output_file.is_file():
+        if output_file.is_file() and not redo_search:
             logging.info(f"{output_file} exists, skipping {term}")
             continue
         kwic_term = get_kwic_for_word(
@@ -178,9 +179,10 @@ def get_kwic_all(
 @click.argument('input_filepath', type=click.Path(exists=True))
 @click.argument('output_filepath', type=click.Path())
 @click.argument('wordlist_filepath', type=click.Path(exists=True))
-@click.option('--window_size', type=click.IntRange(1, 1000), help='size of context window, characters, both directions')
-@click.option('--size_limit', type=click.IntRange(10, 50_000), help='maximum number of results saved in file')
+@click.option('--window_size', type=click.IntRange(1, 1000), default=50, help='size of context window, characters, both directions')
+@click.option('--size_limit', type=click.IntRange(10, 50_000), default=1000, help='maximum number of results saved in file')
 @click.option('--files', type=click.STRING, default='*.txt', help='rule to select suitable files')
+@click.option('--redo', type=click.BOOL, default=True, help='whether or not to re-search existing files')
 def main(
     input_filepath, 
     output_filepath, 
@@ -188,6 +190,7 @@ def main(
     window_size,
     size_limit,
     files,
+    redo,
     ):
     """
     Performs keywords-in-context analysis and saves results in csv files
@@ -202,6 +205,7 @@ def main(
         input_dir=input_dir,
         rule=files,
         wordlist=wordlist,
+        redo_search=redo,
         window_size=window_size,
         size_limit=size_limit,
         word_filter_rule='all',
@@ -212,6 +216,5 @@ if __name__ == '__main__':
     log_fmt = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
     log_file = Path('./logs') / Path(__file__).stem
     logging.basicConfig(filename=log_file, level=logging.INFO, format=log_fmt)
-
 
     main()
