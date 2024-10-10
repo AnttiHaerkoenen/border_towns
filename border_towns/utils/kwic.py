@@ -17,11 +17,11 @@ def text_file_generator(
         raise FileNotFoundError(f"Specified data path {data_path} does not exist.")
 
     paths = list(data_path.rglob(rule))
-    years = [re.findall(r'\d{4}', path.name)[0] for path in paths]
+    pages = ['_'.join(re.findall(r'\d+', path.name)) for path in paths]
 
-    for path, year in sorted(zip(paths, years), key=lambda x: x[1]):
+    for path, page in sorted(zip(paths, pages), key=lambda x: x[1]):
         text = path.read_text()
-        yield path, year, text
+        yield path, page, text
 
 
 def read_word_list(file):
@@ -37,7 +37,7 @@ def read_word_list(file):
 def get_kwic(
         file: Path,
         regex_dict: dict,
-        year: int,
+        page: int,
         window_size: int,
 ):
     rows = []
@@ -56,7 +56,7 @@ def get_kwic(
             context = text[start:end].replace('\n', ' ')
             row = {
                 'file': file.stem,
-                'year': year,
+                'page': page,
                 'keyword': w,
                 'context': context,
             }
@@ -79,7 +79,7 @@ def get_kwic_for_word(
     logging.info(f'Searching {data_path} for {term}')
     rows = []
 
-    for file, year, text in texts:
+    for file, page, text in texts:
         if len(rows) >= size_limit:
             break
         matches = regex.finditer(text)
@@ -95,7 +95,7 @@ def get_kwic_for_word(
             context = text[start:end].replace('\n', ' ')
             row = {
                 'file': file.stem,
-                'year': year,
+                'page': page,
                 'keyword': term,
                 'context': context,
             }
@@ -104,7 +104,7 @@ def get_kwic_for_word(
     if not rows:
         return pd.DataFrame()
 
-    return pd.DataFrame.from_records(rows).sort_values('year').head(size_limit).reset_index()
+    return pd.DataFrame.from_records(rows).sort_values('page').head(size_limit).reset_index()
 
 
 def save_kwic_by_word(
@@ -163,11 +163,11 @@ def get_kwic_all(
     }
     files = []
 
-    for file, year, _ in texts:
+    for file, page, _ in texts:
         kwic = get_kwic(
             file=file,
             regex_dict=regex,
-            year=year,
+            page=page,
             window_size=window_size,
         )
         files.append(kwic)
@@ -181,8 +181,8 @@ def get_kwic_all(
 @click.argument('wordlist_filepath', type=click.Path(exists=True))
 @click.option('--window_size', type=click.IntRange(1, 1000), default=50, help='size of context window, characters, both directions')
 @click.option('--size_limit', type=click.IntRange(10, 50_000), default=1000, help='maximum number of results saved in file')
-@click.option('--files', type=click.STRING, default='*.txt', help='rule to select suitable files')
-@click.option('--redo', type=click.BOOL, default=True, help='whether or not to re-search existing files')
+@click.option('--files', type=click.STRING, default='*.txt', help='rule to select suitable files [*.txt]')
+@click.option('--redo', type=click.BOOL, default=True, help='whether or not to re-search existing files [True]')
 def main(
     input_filepath, 
     output_filepath, 
