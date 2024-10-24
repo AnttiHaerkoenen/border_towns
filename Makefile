@@ -37,7 +37,6 @@ format:
 .PHONY: create_environment
 create_environment:
 	conda env create --name $(PROJECT_NAME) -f environment.yml
-	
 	@echo ">>> conda env created. Activate with:\nconda activate $(PROJECT_NAME)"
 
 
@@ -45,7 +44,10 @@ create_environment:
 # PROJECT RULES                                                                 #
 #################################################################################
 
-
+## Keywords-in-context analysis
+.PHONY: kwic
+kwic:
+	python ./border_towns/utils/kwic.py ./data/external ./data/raw ./wordlists/testi
 
 #################################################################################
 # Self Documenting Commands                                                     #
