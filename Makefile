@@ -53,7 +53,8 @@ kwic:
 .PHONY: plot_debts
 plot_debts:
 	python ./border_towns/visualize/plot_network.py ./data/external/hloverkosto_Kexholm.csv\
-		./reports/figures/kexholm_velat.png "suhde in ['skyldig']"
+		./reports/figures/kexholm_velat.png\
+		nimi1 nimi2 "suhde in ['skyldig']"
 
 #################################################################################
 # Self Documenting Commands                                                     #

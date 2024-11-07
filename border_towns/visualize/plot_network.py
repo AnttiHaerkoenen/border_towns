@@ -12,8 +12,10 @@ import matplotlib.pyplot as plt
 @click.command()
 @click.argument('input_filepath', type=click.Path(exists=True))
 @click.argument('output_filepath', type=click.Path())
+@click.argument('source', type=click.Path())
+@click.argument('target', type=click.Path())
 @click.argument('query')
-def main(input_filepath, output_filepath, query):
+def main(input_filepath, output_filepath, source, target, query):
     """
     Plots a subset of a network from csv edgelist filtered by query
     """
@@ -22,14 +24,14 @@ def main(input_filepath, output_filepath, query):
     output_fp = Path(output_filepath)
     logger.info('Reading and filtering data')
     data = pd.read_csv(input_fp).query(query)
-    logger.info(f'{data.shape[0]} edges found')
+    logger.info(f'{data.shape[0]} edges from {source} to {target} found')
     G = nx.from_pandas_edgelist(
         data,
-        'nimi1',
-        'nimi2',
+        source,
+        target,
         create_using=nx.MultiDiGraph,
     )
-    logger.info(f'Graph contains nodes {G.degree()}')
+    logger.debug(f'Graph contains nodes {G.degree()}')
     A = nx.nx_agraph.to_agraph(G)
     A.draw(output_fp, prog="dot")
     logger.info(f'Graph exported to {output_fp}')
