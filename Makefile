@@ -54,7 +54,7 @@ kwic:
 plot_debts:
 	python ./border_towns/visualize/plot_network.py ./data/external/hloverkosto_Kexholm.csv\
 		./reports/figures/kexholm_velat.png\
-		Nimi nimi "suhde in ['skyldig']"
+		toimija1 Kohde1 "teema in ['skuld']"
 
 #################################################################################
 # Self Documenting Commands                                                     #
@@ -66,7 +66,7 @@ define PRINT_HELP_PYSCRIPT
 import re, sys; \
 lines = '\n'.join([line for line in sys.stdin]); \
 matches = re.findall(r'\n## (.*)\n[\s\S]+?\n([a-zA-Z_-]+):', lines); \
-print('Available rules:\n'); \
+print('Available rules:'); \
 print('\n'.join(['{:25}{}'.format(*reversed(match)) for match in matches]))
 endef
 export PRINT_HELP_PYSCRIPT
