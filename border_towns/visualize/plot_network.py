@@ -4,11 +4,13 @@ import os
 from pathlib import Path
 
 import click
+from trogon import tui
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 
 
+@tui()
 @click.command()
 @click.argument('input_filepath', type=click.Path(exists=True))
 @click.argument('output_filepath', type=click.Path())

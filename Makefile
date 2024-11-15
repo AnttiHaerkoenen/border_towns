@@ -52,7 +52,8 @@ kwic:
 ## Visualize debt relations
 .PHONY: plot_debts
 plot_debts:
-	python ./border_towns/visualize/plot_network.py ./data/external/hloverkosto_Kexholm.csv\
+	python ./border_towns/visualize/plot_network.py main\
+		./data/external/hloverkosto_Kexholm.csv\
 		./reports/figures/kexholm_velat.png\
 		toimija1 Kohde1 "teema in ['skuld']"
 
