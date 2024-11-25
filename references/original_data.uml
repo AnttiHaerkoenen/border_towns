@@ -1,0 +1,27 @@
+@startuml
+
+object Tapaus {
+tapaus_tunnus: INT = 1682001
+aika: STRING
+paikka: STRING
+...
+ominaisuuksia
+}
+
+object Henkilo {
+hlo_tunnus: INT = 400002
+nimi: STRING
+status: STRING
+...
+ominaisuuksia
+}
+
+object Yhteys {
+tapaus_tunnus: INT = 1682001
+hlo_tunnus: INT = 400002
+}
+
+Yhteys::hlo_tunnus --- Henkilo::hlo_tunnus
+Yhteys::tapaus_tunnus --- Tapaus::tapaus_tunnus
+
+@enduml
