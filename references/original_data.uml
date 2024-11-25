@@ -1,27 +1,66 @@
 @startuml
 
-object Tapaus {
-tapaus_tunnus: INT = 1682001
-aika: STRING
-paikka: STRING
-...
-ominaisuuksia
-}
+package henkilot {
+    object Henkilo1 {
+        hlo_tunnus: INT = 400002
+        nimi: STRING = Kalle Koljonen
+        nimivariantit: STRING = Colioin, Koloin
+        status: STRING = porvari
+        kotipaikka: INT = 1000
+        lisatiedot: STRING
+    }
 
-object Henkilo {
-hlo_tunnus: INT = 400002
-nimi: STRING
-status: STRING
-...
-ominaisuuksia
+    object Henkilo2 {
+        hlo_tunnus: INT = 400015
+        nimi: STRING = Heikki Karhu
+        nimivariantit: STRING = Hindrich, Hendrich
+        status: STRING = porvari
+        kotipaikka: INT = 2000
+        lisatiedot: STRING
+    }
 }
+note bottom of henkilot
+    Nämä ovat verkoston solmuja.
+    Joko luonnollinen henkilö tai organisaatio.
+end note
 
-object Yhteys {
-tapaus_tunnus: INT = 1682001
-hlo_tunnus: INT = 400002
+package yhteydet {
+    object Yhteys {
+        kasittely_tunnus: INT = 1682001
+        hlo_tunnus_1: INT = 400002
+        hlo_tunnus_2: INT = 400015
+        suhde: STRING = velka
+        suuruus: STRING = "2 äyriä"
+        alku: STRING = 1680_01_08
+        loppu: STRING = 1682_01_04
+        ominaisuus: STRING = tupakkaa
+    }
 }
+note bottom of yhteydet
+    Nämä ovat verkoston yhteyksiä.
+    Päätellään lähteistä.
+end note
 
-Yhteys::hlo_tunnus --- Henkilo::hlo_tunnus
-Yhteys::tapaus_tunnus --- Tapaus::tapaus_tunnus
+package kasittelyt {
+    object Kasittely {
+        kasittely_tunnus: INT = 1682001
+        alkuperainen_kasittely: INT = 1682001
+        sivu: STRING = 002
+        aika: STRING = 1682_01_04
+        paikka: INT = 1000
+        lisatiedot: STRING
+    }
+}
+note bottom of (kasittelyt)
+    Nämä ovat lähteiden mukaisia jakoja.
+    Samaa juttua voidaan käsitellä moneen kertaan:
+    kasittely_tunnus on tämänhetkinen käsittely.
+    alkuperainen_kasittely on jutun ensimmäinen tunnettu käsittely.
+    Näitä ei visualisoida suoraan.
+end note
+
+Yhteys::hlo_tunnus_1 -r- Henkilo1::hlo_tunnus
+Yhteys::hlo_tunnus_2 -r- Henkilo2::hlo_tunnus
+Yhteys::kasittely_tunnus -l- Kasittely::kasittely_tunnus
 
 @enduml
