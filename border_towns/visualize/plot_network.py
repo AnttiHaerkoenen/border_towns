@@ -31,6 +31,7 @@ def main(input_filepath, output_filepath, source, target, query):
         data,
         source,
         target,
+        edge_attr=True,
         create_using=nx.MultiDiGraph,
     )
     logger.debug(f'Graph contains nodes {G.degree()}')

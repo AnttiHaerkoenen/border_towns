@@ -210,6 +210,7 @@ def main(
         size_limit=size_limit,
         word_filter_rule='all',
     )
+    logger.info(f'Keywords saved to {output_dir}')
 
 
 if __name__ == '__main__':

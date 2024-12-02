@@ -49,13 +49,25 @@ kwic:
 	python ./border_towns/utils/kwic.py ./data/external ./data/raw \
 		./wordlists/testi --window_size 500
 
-## Visualize debt relations
-.PHONY: plot_debts
-plot_debts:
-	python ./border_towns/visualize/plot_network.py main\
-		./data/external/hloverkosto_Kexholm.csv\
-		./reports/figures/kexholm_velat.png\
-		toimija1 Kohde1 "teema in ['skuld']"
+## Build network
+.PHONY: network
+network:
+	python ./border_towns/data/build_network.py main \
+	./data/external/testi/toimijat.csv ./data/external/testi/yhteydet.csv \
+	./data/interim/verkosto.csv toimija_tunnus toimija_tunnus_1 toimija_tunnus_2
+
+## Visualize a network of relations
+.PHONY: plot_network
+plot_network: network
+	python ./border_towns/visualize/plot_network.py main \
+		./data/interim/verkosto.csv \
+		./reports/figures/sortavala.png \
+		nimi_source nimi_target "suhde in ['velka', 'omistaja', 'operaattori']"
+
+## Visualize database
+.PHONY: plot_db
+plot_db:
+	plantuml references/original_data.uml
 
 #################################################################################
 # Self Documenting Commands                                                     #
