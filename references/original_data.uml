@@ -5,6 +5,7 @@ package toimijat {
         toimija_tunnus: INT = 400002
         nimi: STRING = Kalle Koljonen
         nimivariantit: STRING = Colioin, Koloin
+        sukupuoli: M
         status: STRING = porvari
         status_2: STRING = raatimies
         kotipaikka: INT = 1000
@@ -14,6 +15,7 @@ package toimijat {
         toimija_tunnus: INT = 400015
         nimi: STRING = Heikki Karhu
         nimivariantit: STRING = Hindrich, Hendrich
+        sukupuoli: M
         status: STRING = porvari
         status_2: STRING
         kotipaikka: INT = 2000
@@ -29,8 +31,10 @@ end note
 package yhteydet {
     object Yhteys {
         kasittely_tunnus: INT = 1300-1682-01-01a
-        toimija_tunnus_1: INT = 400002
-        toimija_tunnus_2: INT = 400015
+        toimija_tunnus_source: INT = 400002
+        paikka_source: INT = 1300
+        toimija_tunnus_target: INT = 400015
+        paikka_target: INT = 1300
         suhde: STRING = velka
         suuruus: STRING = 2 öre
         alku: STRING = 1680_01_08
@@ -43,24 +47,7 @@ note bottom of yhteydet
     Päätellään lähteistä.
 end note
 
-package kasittelyt {
-    object Kasittely {
-        kasittely_tunnus: STRING = 1300-1682-01-01a
-        alkuperainen_kasittely: STRING = 1300-1682-01-01a
-        sivu: STRING = 002
-        lisatiedot: STRING
-    }
-}
-note bottom of (kasittelyt)
-    Nämä ovat lähteiden mukaisia jakoja.
-    Samaa juttua voidaan käsitellä moneen kertaan:
-    kasittely_tunnus on tämänhetkinen käsittely.
-    alkuperainen_kasittely on jutun ensimmäinen tunnettu käsittely.
-    Näitä ei visualisoida suoraan.
-end note
-
-Yhteys::toimija_tunnus_1 -r- Toimija1::toimija_tunnus
-Yhteys::toimija_tunnus_2 -r- Toimija2::toimija_tunnus
-Yhteys::kasittely_tunnus -l- Kasittely::kasittely_tunnus
+Yhteys::toimija_tunnus_source -r- Toimija1::toimija_tunnus
+Yhteys::toimija_tunnus_target -r- Toimija2::toimija_tunnus
 
 @enduml
