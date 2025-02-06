@@ -46,8 +46,12 @@ create_environment:
 ## Keywords-in-context analysis
 .PHONY: kwic
 kwic:
-	python ./border_towns/utils/kwic.py ./data/external ./data/raw \
-		./wordlists/testi --window_size 500
+	# Kexholm 1659-1699
+	python ./border_towns/utils/kwic.py ./data/external/Kexholm ./data/raw/Kexholm/debt ./wordlists/debt --window_size 50
+	python ./border_towns/utils/kwic.py ./data/external/Kexholm ./data/raw/Kexholm/trade ./wordlists/trade --window_size 50
+	# Brahea 1668-1679
+	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/debt ./wordlists/debt --window_size 50
+	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/trade ./wordlists/trade --window_size 50
 
 ## Build network
 .PHONY: network
@@ -68,6 +72,12 @@ plot_network: network
 .PHONY: plot_db
 plot_db:
 	plantuml references/original_data.uml
+
+## Combine multiple files into one
+.PHONY: combine_pages
+combine_pages:
+	sh ./border_towns/utils/combine-pages.sh ./data/external/Kexholm ./data/external/Kexholm_1659_1699.txt
+	sh ./border_towns/utils/combine-pages.sh ./data/external/Brahea ./data/external/Brahea_1668_1679.txt
 
 #################################################################################
 # Self Documenting Commands                                                     #

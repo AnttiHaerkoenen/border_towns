@@ -142,37 +142,9 @@ def save_kwic_by_word(
             size_limit=size_limit,
         )
         if not kwic_term.empty:
-            kwic_term.drop(columns=['index', 'keyword'], inplace=True)
+            kwic_term.drop(columns=['index', 'keyword', 'page'], inplace=True)
         logging.info(f'Saving data: {term}')
         kwic_term.to_csv(output_file)
-
-
-def get_kwic_all(
-        *,
-        data: Path,
-        rule: str,
-        wordlist: str,
-        window_size: int,
-) -> DataFrame:
-    texts = text_file_generator(data, rule)
-    words = read_word_list(wordlist)
-    regex = {
-        word: re.compile(regexpr, flags=re.IGNORECASE)
-        for word, regexpr
-        in words.items()
-    }
-    files = []
-
-    for file, page, _ in texts:
-        kwic = get_kwic(
-            file=file,
-            regex_dict=regex,
-            page=page,
-            window_size=window_size,
-        )
-        files.append(kwic)
-
-    return pd.concat(files, axis=0).sort_values('keyword').reset_index()
 
 
 @click.command()
