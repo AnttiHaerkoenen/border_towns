@@ -9,7 +9,8 @@ Brahea,\bbrahea
 Kajana,\b[kc]a[ij]ana
 Kexholm,\bke(x|ks)holm
 Viborg,\b[wvu](ij|y|i)b[uo]rgh?
-Olonetz,\bol+o(=-)?\s?n(e|i)t?[sz]
+Olonetz,\bol+o(=-)?\s?n[ie]?t?[sz]
+Aunus,\baun[iu]s(ma)?
 Ulå,\b[ou]l[oå]\s
 Novgorod,\bnovgorod
 Lava,\bsla[vw]a
@@ -32,6 +33,6 @@ Jougio,\bjou(g|k|ck)io
 Jachimanwara,\bja+(ch|k)imanwa+h?ra
 Karilla,\bkaril+a
 Tiurula,\btiurula
-Sakkola,\bsackola
+Sakkola,\bsac?k[oa]la
 Räisälä,\br[eä]is[eä]l[äe]
 Sordavala,sord[ae][wv]al+a
