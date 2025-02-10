@@ -50,10 +50,14 @@ kwic:
 	python ./border_towns/utils/kwic.py ./data/external/Kexholm ./data/raw/Kexholm/debt ./wordlists/debt --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Kexholm ./data/raw/Kexholm/trade ./wordlists/trade --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Kexholm ./data/raw/Kexholm/transport ./wordlists/transport --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Kexholm ./data/raw/Kexholm/family ./wordlists/family --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Kexholm ./data/raw/Kexholm/places ./wordlists/places --window_size 100
 	# Brahea 1668-1679
 	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/debt ./wordlists/debt --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/trade ./wordlists/trade --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/transport ./wordlists/transport --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/family ./wordlists/family --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/places ./wordlists/places --window_size 100
 
 ## Build network
 .PHONY: network
