@@ -1,6 +1,6 @@
-skyldig,\bsk(y|ij|u|v|w)ldig
+skyldig,\bsk(y|ij|u|v|w)ld?ig
 skuld,\bsk(y|ij|u|v|w)ldh?\b
-gäld,\bgi?[äe]ldh?\b
+gäld,\bgi?[äe]ldh?[sz]?\b
 betala,\bbeta+h?l
 intresse,\binte?resse
 derivera,\bderiver
