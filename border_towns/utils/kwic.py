@@ -101,6 +101,8 @@ def get_kwic_for_word(
             }
             rows.append(row)
 
+    logging.info(f"{len(rows)} matches found")
+    
     if not rows:
         return pd.DataFrame()
 
