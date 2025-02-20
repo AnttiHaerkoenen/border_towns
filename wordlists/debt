@@ -1,5 +1,5 @@
-skyldig,\bsk(y|ij|u|v|w)ld?ig
-skuld,\bsk(y|ij|u|v|w)ldh?\b
+skyldig,\bs[ck]h?(y|ij|u|v|w)ldh?ig
+skuld,\bs[ck]h?(y|ij|u|v|w)ldh?\b
 gäld,\bgi?[äe]ldh?[sz]?\b
 betala,\bbeta+h?l
 intresse,\binte?resse
