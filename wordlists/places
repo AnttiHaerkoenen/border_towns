@@ -1,7 +1,7 @@
 Stockholm,\bstoc?kholm
 Rävel,\br[eä]vel
 Narfwa,\bnarf?[wvu](a|e)
-Nyen,\bn(y|i|ij|u)en|skant?[zs]+en
+Nyen,\b(n(y|i|ij|u)ens?)|(skant?[zs]+en)
 Lübeck,\bl(y|ü)bec?k
 Hamburg,\bhamburgh?
 Amsterdam,\bamsterdam
@@ -35,4 +35,4 @@ Karilla,\bkaril+a
 Tiurula,\btiurula
 Sakkola,\bsac?k[oa]la
 Räisälä,\br[eä]is[eä]l[äe]
-Sordavala,sord[ae][wv]al+a
+Sordavala,s[oå]rd[ae][wv]al+a
