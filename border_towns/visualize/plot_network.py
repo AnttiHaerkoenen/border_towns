@@ -36,6 +36,7 @@ def main(input_filepath, output_filepath, source, target, query):
     )
     logger.debug(f'Graph contains nodes {G.degree()}')
     A = nx.nx_agraph.to_agraph(G)
+    print(A.get_node(1))
     A.draw(output_fp, prog='dot')
     logger.info(f'Graph exported to {output_fp}')
 
