@@ -35,8 +35,21 @@ def main(input_filepath, output_filepath, source, target, query):
         create_using=nx.MultiDiGraph,
     )
     logger.debug(f'Graph contains nodes {G.degree()}')
+    node_data = pd.read_csv(input_fp.parent / 'henkilot_Kexholm.csv')
     A = nx.nx_agraph.to_agraph(G)
-    print(A.get_node(1))
+    color_mapper = {
+        '1100': 'red',
+        '1200': 'black',
+        '1300': 'blue',
+        '2013': 'purple',
+        '2014': 'green',
+        '5002': 'yellow',
+    }
+    for row in node_data.itertuples():
+        if row.nimi not in A:
+            continue
+        A.get_node(row.nimi).attr['color'] = color_mapper.get(row.paikkatunnus, 'black')
+
     A.draw(output_fp, prog='dot')
     logger.info(f'Graph exported to {output_fp}')
 
