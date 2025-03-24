@@ -50,6 +50,7 @@ def main(input_filepath, output_filepath, source, target, query):
             continue
         A.get_node(row.nimi).attr['color'] = color_mapper.get(row.paikkatunnus, 'black')
 
+    print(A.get_node(1))
     A.draw(output_fp, prog='dot')
     logger.info(f'Graph exported to {output_fp}')
 
