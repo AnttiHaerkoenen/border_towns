@@ -68,11 +68,11 @@ network:
 
 ## Visualize a network of relations
 .PHONY: plot_network
-plot_network: network
+plot_network:
 	python ./border_towns/visualize/plot_network.py main \
-		./data/interim/verkosto.csv \
-		./reports/figures/sortavala.png \
-		nimi_source nimi_target "suhde in ['velka', 'omistaja', 'operaattori']"
+		./data/interim/yhteydet_Kexholm.csv \
+		./reports/figures/kexholm.png \
+		nimi_source nimi_target "tyyppi in ['velka']"
 
 ## Visualize database
 .PHONY: plot_db
