@@ -24,18 +24,21 @@ def main(input_filepath, output_filepath, source, target, query):
     logger = logging.getLogger(__name__)
     input_fp = Path(input_filepath)
     output_fp = Path(output_filepath)
+
     logger.info('Reading and filtering data')
-    data = pd.read_csv(input_fp).query(query)
-    logger.info(f'{data.shape[0]} edges from {source} to {target} found')
+    edge_data = pd.read_csv(input_fp / 'yhteydet.csv').query(query)
+    logger.info(f'{edge_data.shape[0]} edges from {source} to {target} found')
+
     G = nx.from_pandas_edgelist(
-        data,
+        edge_data,
         source,
         target,
         edge_attr=True,
         create_using=nx.MultiDiGraph,
     )
+
     logger.debug(f'Graph contains nodes {G.degree()}')
-    node_data = pd.read_csv(input_fp.parent / 'henkilot_Kexholm.csv')
+    node_data = pd.read_csv(input_fp / 'henkilot.csv')
     A = nx.nx_agraph.to_agraph(G)
     color_mapper = {
         '1100': 'red',
@@ -45,12 +48,12 @@ def main(input_filepath, output_filepath, source, target, query):
         '2014': 'green',
         '5002': 'yellow',
     }
+
     for row in node_data.itertuples():
         if row.nimi not in A:
             continue
         A.get_node(row.nimi).attr['color'] = color_mapper.get(row.paikkatunnus, 'black')
 
-    print(A.get_node(1))
     A.draw(output_fp, prog='dot')
     logger.info(f'Graph exported to {output_fp}')
 

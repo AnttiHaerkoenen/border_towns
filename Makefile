@@ -70,7 +70,7 @@ network:
 .PHONY: plot_network
 plot_network:
 	python ./border_towns/visualize/plot_network.py main \
-		./data/interim/yhteydet_Kexholm.csv \
+		./data/interim/kexholm \
 		./reports/figures/kexholm.png \
 		nimi_source nimi_target "tyyppi in ['velka']"
 
