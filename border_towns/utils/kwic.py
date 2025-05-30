@@ -94,6 +94,7 @@ def get_kwic_for_word(
                 end = len(text) - 1
             context = text[start:end].replace('\n', ' ')
             row = {
+                'parent': file.parent.stem,
                 'file': file.stem,
                 'page': page,
                 'keyword': term,
@@ -106,7 +107,7 @@ def get_kwic_for_word(
     if not rows:
         return pd.DataFrame()
 
-    return pd.DataFrame.from_records(rows).sort_values('page').head(size_limit).reset_index()
+    return pd.DataFrame.from_records(rows).sort_values(['parent', 'page']).head(size_limit).reset_index()
 
 
 def save_kwic_by_word(

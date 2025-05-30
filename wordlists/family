@@ -4,13 +4,13 @@ enka,\b[eä]nc?ki?an?\b
 fader,\bf[aeä]dh?(er|re)\b
 moder,\bmodh?er\b
 dotter,\bdot+(er|re)
-son,\b(s|ss|ß)on
-styfson,\bstyf(\s)?son
+son,\b(s|ss|ß)oh?n
+styfson,\bstyf(\s)?soh?n
 styfdotter,\bstyf(\s)?dot+(er|re)
 styffadher,\bstyf(\s)?fadh?(er|re)
 broder,\bbrodh?(er|re)\b
 syster,\bsysth?(er|re)\b
-måg,\bmåg\b
+måg,\bm[åä]gh+\b
 svåger,\bs[vwu]åger
 swärdotter,\bs[wv][äe]rdot+(er|re)
 gifft,\bgif+t
