@@ -58,6 +58,13 @@ kwic:
 	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/transport ./wordlists/transport --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/family ./wordlists/family --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/places ./wordlists/places --window_size 100
+	# Brahea 1673-1699
+	python ./border_towns/utils/kwic.py ./data/external/Sortavala ./data/raw/Sortavala/debt ./wordlists/debt --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Sortavala ./data/raw/Sortavala/trade ./wordlists/trade --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Sortavala ./data/raw/Sortavala/transport ./wordlists/transport --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Sortavala ./data/raw/Sortavala/family ./wordlists/family --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Sortavala ./data/raw/Sortavala/places ./wordlists/places --window_size 100
+
 
 ## Build network
 .PHONY: network
@@ -72,7 +79,7 @@ plot_network:
 	python ./border_towns/visualize/plot_network.py main \
 		./data/interim/kexholm \
 		./reports/figures/kexholm.png \
-		nimi_source nimi_target "tyyppi in ['velka']"
+		nimi_source nimi_target "tyyppi not in ['kunnia', 'väkivalta', 'riita', 'vihamies']"
 
 ## Visualize database
 .PHONY: plot_db
