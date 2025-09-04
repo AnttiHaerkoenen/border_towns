@@ -58,7 +58,7 @@ kwic:
 	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/transport ./wordlists/transport --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/family ./wordlists/family --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Brahea ./data/raw/Brahea/places ./wordlists/places --window_size 100
-	# Brahea 1673-1699
+	# Sordavala 1673-1699
 	python ./border_towns/utils/kwic.py ./data/external/Sordavala ./data/raw/Sordavala/debt ./wordlists/debt --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Sordavala ./data/raw/Sordavala/trade ./wordlists/trade --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Sordavala ./data/raw/Sordavala/transport ./wordlists/transport --window_size 100
@@ -66,6 +66,16 @@ kwic:
 	python ./border_towns/utils/kwic.py ./data/external/Sordavala ./data/raw/Sordavala/places ./wordlists/places --window_size 100
 	# Nyen 1684-1699
 	python ./border_towns/utils/kwic.py ./data/external/Nyen ./data/raw/Nyen/debt ./wordlists/debt --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Nyen ./data/raw/Nyen/trade ./wordlists/trade --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Nyen ./data/raw/Nyen/transport ./wordlists/transport --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Nyen ./data/raw/Nyen/family ./wordlists/family --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Nyen ./data/raw/Nyen/places ./wordlists/places --window_size 100
+	# Kajana 1659-1699
+	python ./border_towns/utils/kwic.py ./data/external/Kajana ./data/raw/Kajana/debt ./wordlists/debt --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Kajana ./data/raw/Kajana/trade ./wordlists/trade --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Kajana ./data/raw/Kajana/transport ./wordlists/transport --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Kajana ./data/raw/Kajana/family ./wordlists/family --window_size 100
+	python ./border_towns/utils/kwic.py ./data/external/Kajana ./data/raw/Kajana/places ./wordlists/places --window_size 100
 
 ## Build network
 .PHONY: network
@@ -92,6 +102,7 @@ plot_db:
 combine_pages:
 	sh ./border_towns/utils/combine-pages.sh ./data/external/Kexholm ./data/external/Kexholm_1659_1699.txt
 	sh ./border_towns/utils/combine-pages.sh ./data/external/Brahea ./data/external/Brahea_1668_1679.txt
+	sh ./border_towns/utils/combine-pages.sh ./data/external/Kajana/RO_1659_1699 ./data/external/Kajana_1659_1699.txt
 	sh ./border_towns/utils/combine-pages.sh ./data/external/Sordavala/s1 ./data/external/Sordavala_s1.txt
 	sh ./border_towns/utils/combine-pages.sh ./data/external/Sordavala/s2 ./data/external/Sordavala_s2.txt
 	sh ./border_towns/utils/combine-pages.sh ./data/external/Sordavala/s3 ./data/external/Sordavala_s3.txt
