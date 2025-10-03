@@ -30,8 +30,10 @@ def main(
     if not output_fp.exists():
         output_fp.touch()
     logger.debug('Reading data')
-    edges = pd.read_csv(edge_fp)
-    nodes = pd.read_csv(node_fp)
+    edges = pd.read_csv(edge_fp, dtype='object')
+    edges.drop(columns=['nimi_source', 'nimi_target'], inplace=True)
+    nodes = pd.read_csv(node_fp, dtype='object')
+    nodes.drop(columns=['status_alkup', 'nimen_variaatiot', 'lisatietoa'], inplace=True)
 
     if node_key not in nodes.columns:
         logger.error(f'{node_key} not found in {node_fp}')
@@ -45,7 +47,7 @@ def main(
 
     network = edges.merge(nodes, right_on=node_key, left_on=edge_key_1)
     network = network.merge(nodes, right_on=node_key, left_on=edge_key_2, suffixes=['_source', '_target'])
-    network.drop(columns=['toimija_tunnus_source', 'toimija_tunnus_target'], inplace=True)
+    network.drop(columns=['hlotunnus_source', 'hlotunnus_target'], inplace=True)
     network.to_csv(output_fp)
     logger.info(f'Network saved to {output_fp}')
     return 0

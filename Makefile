@@ -13,7 +13,12 @@ PYTHON_INTERPRETER = python
 ## Install Python Dependencies
 .PHONY: requirements
 requirements:
-	conda env update --name $(PROJECT_NAME) --file environment.yml --prune
+	conda env update --name $(PROJECT_NAME) --file requirements.txt --prune
+
+## Save env to text file
+.PHONY: save_env
+save_env:
+	conda list --explicit > requirements.txt
 
 ## Delete all compiled Python files
 .PHONY: clean
@@ -36,7 +41,7 @@ format:
 ## Set up python interpreter environment
 .PHONY: create_environment
 create_environment:
-	conda env create --name $(PROJECT_NAME) -f environment.yml
+	conda env create --name $(PROJECT_NAME) -f requirements.txt
 	@echo ">>> conda env created. Activate with:\nconda activate $(PROJECT_NAME)"
 
 #################################################################################
@@ -81,16 +86,17 @@ kwic:
 .PHONY: network
 network:
 	python ./border_towns/data/build_network.py main \
-	./data/external/testi/toimijat.csv ./data/external/testi/yhteydet.csv \
-	./data/interim/verkosto.csv toimija_tunnus toimija_tunnus_1 toimija_tunnus_2
+	./data/interim/csv/henkilot_Kexholm.csv ./data/interim/csv/yhteydet_Kexholm.csv \
+	./data/interim/csv/verkosto_Kexholm.csv \
+	hlotunnus henkilo_source henkilo_target
 
 ## Visualize a network of relations
 .PHONY: plot_network
 plot_network:
 	python ./border_towns/visualize/plot_network.py main \
-		./data/interim/kexholm \
+		./data/interim/csv/verkosto_Kexholm.csv \
 		./reports/figures/kexholm.png \
-		nimi_source nimi_target "tyyppi not in ['kunnia', 'väkivalta', 'riita', 'vihamies']"
+		nimi_source nimi_target "tyyppi in ['kauppa']"
 
 ## Visualize database
 .PHONY: plot_db
@@ -107,6 +113,12 @@ combine_pages:
 	sh ./border_towns/utils/combine-pages.sh ./data/external/Sordavala/s2 ./data/external/Sordavala_s2.txt
 	sh ./border_towns/utils/combine-pages.sh ./data/external/Sordavala/s3 ./data/external/Sordavala_s3.txt
 	sh ./border_towns/utils/combine-pages.sh ./data/external/Nyen/RO_1697 ./data/external/Nyen_RO_1697.txt
+
+## Turn xlsx to csv
+.PHONY: csv
+csv:
+	python ./border_towns/utils/xlsx_to_csv.py ./data/interim/xlsx/henkilot_Kexholm.xlsx ./data/interim/csv/henkilot_Kexholm.csv
+	python ./border_towns/utils/xlsx_to_csv.py ./data/interim/xlsx/yhteydet_Kexholm.xlsx ./data/interim/csv/yhteydet_Kexholm.csv
 
 #################################################################################
 # Self Documenting Commands                                                     #

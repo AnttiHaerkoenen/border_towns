@@ -26,7 +26,7 @@ def main(input_filepath, output_filepath, source, target, query):
     output_fp = Path(output_filepath)
 
     logger.info('Reading and filtering data')
-    edge_data = pd.read_csv(input_fp / 'yhteydet.csv').query(query)
+    edge_data = pd.read_csv(input_fp).query(query)
     logger.info(f'{edge_data.shape[0]} edges from {source} to {target} found')
 
     G = nx.from_pandas_edgelist(
@@ -38,7 +38,6 @@ def main(input_filepath, output_filepath, source, target, query):
     )
 
     logger.debug(f'Graph contains nodes {G.degree()}')
-    node_data = pd.read_csv(input_fp / 'henkilot.csv')
     A = nx.nx_agraph.to_agraph(G)
     color_mapper = {
         '1100': 'red',
@@ -49,10 +48,10 @@ def main(input_filepath, output_filepath, source, target, query):
         '5002': 'yellow',
     }
 
-    for row in node_data.itertuples():
-        if row.nimi not in A:
+    for row in edge_data.itertuples():
+        if row.nimi_source not in A:
             continue
-        A.get_node(row.nimi).attr['color'] = color_mapper.get(row.paikkatunnus, 'black')
+        A.get_node(row.nimi_source).attr['color'] = color_mapper.get(row.paikkatunnus_source, 'black')
 
     A.draw(output_fp, prog='dot')
     logger.info(f'Graph exported to {output_fp}')
