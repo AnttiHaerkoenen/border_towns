@@ -87,7 +87,7 @@ kwic:
 network:
 	python ./border_towns/data/build_network.py main \
 	./data/interim/csv/henkilot_Kexholm.csv ./data/interim/csv/yhteydet_Kexholm.csv \
-	./data/interim/csv/verkosto_Kexholm.csv \
+	./data/processed/verkosto_Kexholm.csv \
 	hlotunnus henkilo_source henkilo_target \
 	./data/raw/duplicates.yaml --duplicates
 

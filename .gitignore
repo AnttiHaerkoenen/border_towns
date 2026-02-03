@@ -1,7 +1,6 @@
 # Data
 /data/external
 /data/interim
-/data/processed
 
 # Logs
 /logs/
