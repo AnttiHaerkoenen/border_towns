@@ -68,11 +68,13 @@ def main(
         logger.info('Duplicates removed succesfully')
 
     network.replace(
-        to_replace='"', 
-        value="'", 
+        to_replace={
+            '"': "'",
+            ",": ";", 
+        }, 
         regex=True,
         inplace=True,
-        )
+        )   # Cytoscape does not allow commas in cells!
     network.to_csv(output_fp, na_rep='NA', quotechar='"')
     logger.info(f'Network saved to {output_fp}')
     return 0
