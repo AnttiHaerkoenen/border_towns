@@ -1,9 +1,9 @@
 ,tapaustunnus,henkilo_source,paikka_source,henkilo_target,paikka_target,tyyppi,suuruus,lisatietoa,nimi_source,sukupuoli_source,status_1_source,status_2_source,paikkatunnus_source,kotipaikka_source,nimi_target,sukupuoli_target,status_1_target,status_2_target,paikkatunnus_target,kotipaikka_target
 0,1200- - -,420641,1200,420123,1200,vanhempi,NA,geni.com,Hindrich Simonsson Blankenhagen,M,NA,NA,1200,Käkisalmi,Elisabeth Blankenhagen,N,NA,matrona,1200,Käkisalmi
 1,1200-1660-03-26a,420275,1200,420274,1200,vanhempi,NA,NA,Margaretha Eriksdotter,N,NA,talonpojan vaimo,1200,Käkisalmi,NN,M,NA,NA,1200,Käkisalmi
-2,1200-1660-03-26a,420275,1200,420273,1200,rahavelka,15 dr kmnt,pojan hevoskauppa,Margaretha Eriksdotter,N,NA,talonpojan vaimo,1200,Käkisalmi,Tobia Lasse,M,porvari,NA,1200,Käkisalmi
-3,1200-1660-03-26a,420274,1200,420273,1200,kauppa,36 dr kmnt,hevonen,NN,M,NA,NA,1200,Käkisalmi,Tobia Lasse,M,porvari,NA,1200,Käkisalmi
-4,1200-1660-10-10a,420273,1200,420276,2018,kauppa,8 thun spannmal,hevonen,Tobia Lasse,M,porvari,NA,1200,Käkisalmi,Mattz Hölcki,M,talonpoika,NA,2018,Pyhäjärvi
+2,1200-1660-03-26a,420275,1200,420053,1200,rahavelka,15 dr kmnt,pojan hevoskauppa,Margaretha Eriksdotter,N,NA,talonpojan vaimo,1200,Käkisalmi,Tobia Lasse,M,porvari,NA,1200,Käkisalmi
+3,1200-1660-03-26a,420274,1200,420053,1200,kauppa,36 dr kmnt,hevonen,NN,M,NA,NA,1200,Käkisalmi,Tobia Lasse,M,porvari,NA,1200,Käkisalmi
+4,1200-1660-10-10a,420053,1200,420276,2018,kauppa,8 thun spannmal,hevonen,Tobia Lasse,M,porvari,NA,1200,Käkisalmi,Mattz Hölcki,M,talonpoika,NA,2018,Pyhäjärvi
 5,1200-1661-09-02a,420221,1200,420260,1200,kunnia,NA,dijn gam[mal] hora; hwadh hafuer du här till at giöra den her Strandhen hörer migh till; och hadhe henne kas[tat] nedher in i watten och illa slagin; säijandhes: Jagh will tigh tractera på Ryska.,Påel Safwolain,M,porvari,NA,1200,Käkisalmi,Catharina Peersdotter,N,porvarin vaimo,NA,1200,Käkisalmi
 6,1200-1661-09-02a,420260,1200,420261,1200,vanhempi,NA,NA,Catharina Peersdotter,N,porvarin vaimo,NA,1200,Käkisalmi,Birgitta,N,porvarin tytär,NA,1200,Käkisalmi
 7,1200-1661-09-02a,420260,1200,420262,1200,avioliitto,NA,vaimo leski 1661,Catharina Peersdotter,N,porvarin vaimo,NA,1200,Käkisalmi,NN,M,porvari,NA,1200,Käkisalmi
@@ -42,7 +42,7 @@
 40,1200-1665-07-27a,420306,1300,420307,NA,velka,NA,riita,Johan Berendh,M,porvari,NA,1300,Sortavala,Anders Grabbe,M,NA,verovuokraaja,NA,NA
 41,1200-1665-08-19e,420423,NA,420299,1200,velka,NA,NA,Hans Wagner,M,NA,NA,NA,NA,Michell Düster,M,raatimies,NA,1200,Käkisalmi
 42,1200-1665-08-19e,420423,NA,420422,NA,edustaja,NA,NA,Hans Wagner,M,NA,NA,NA,NA,Hinrich Jonsson,M,NA,NA,NA,NA
-43,1200-1665-08-30a,420297,1200,420273,NA,rahavelka,7 dr 8 ör Kmtt,NA,Jochim Fresse,M,NA,postimestari,1200,Käkisalmi,Tobia Lasse,M,porvari,NA,1200,Käkisalmi
+43,1200-1665-08-30a,420297,1200,420053,NA,rahavelka,7 dr 8 ör Kmtt,NA,Jochim Fresse,M,NA,postimestari,1200,Käkisalmi,Tobia Lasse,M,porvari,NA,1200,Käkisalmi
 44,1200-1665-09-18a,420299,1200,420322,1200,kauppa,NA,kiista vaa'an/punnusten oikeellisuudesta; Persson ostanut 1 lispund ja 17 mk voita; mutta saanut vain 7 mk,Michel Düster,M,raatimies,NA,1200,Käkisalmi,Johan Pärsson Fila,M,NA,NA,1200,Käkisalmi
 45,1200-1665-09-18a,420299,1200,420326,2018,kauppa,NA,kiista vaa'an/punnusten oikeellisuudesta; Sigfredsson myynyt voita 18 mk ja sai 5 markkaa vähemmän maksua ja kotona mitannut 4 mk ja saanut 5; mutta kun raatimies taas punnitsi siitä tuli 1;5 mk.,Michel Düster,M,raatimies,NA,1200,Käkisalmi,Lars Sigfredsson,M,talonpoika,NA,2018,Pyhäjärvi
 46,1200-1665-09-19a,420299,1200,420324,1200,vihamies,NA,owän. Piika karannut Düsterin talosta; oman kertomuksensa mukaan nälän takia.,Michel Düster,M,raatimies,NA,1200,Käkisalmi,Maria Hindrichsdotter,N,NA,piika,1200,Käkisalmi
@@ -62,15 +62,15 @@
 60,1200-1667-02-27a,420320,1200,420329,1200,rahavelka,800dr kmt,Henrik Simonsson Blankenhagenin velka 1000 dr kpm ruptuurisodan aikana; peritään loppuja nyt leskeltä.',Margareta Wagner,N,porvari,NA,NA,NA,Kuisma Offanasioff,M,NA,NA,1200,Käkisalmi
 61,1200-1667-02-27a,420329,1200,420328,1200,isäpuoli,NA,Rodivan myös Kuisman valtuutus,Kuisma Offanasioff,M,NA,NA,1200,Käkisalmi,Rodivan Labanoff,M,NA,NA,1200,Käkisalmi
 62,1200-1667-02-27a,420320,1200,420255,1200,vanhempi,NA,Henrich myös Margaretan valtuutus,Margareta Wagner,N,porvari,NA,NA,NA,Hindrick Hindrichsson Blankenhagen,M,raatimies,Hindrich ,1100,Nevanlinna
-63,1200-1667-04-15b,420332,1200,420308,1200,rahavelka,7 Dr Kpmtt,tapahtui Narvassa kesällä 1666,Johan Grön,M,NA,NA,1200,Käkisalmi,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
-64,1200-1667-04-15b,420263,1200,420308,1200,rahavelka,135 Dr Kpmtt,135 Dr Kpmtt = 45 Dr Smtt,Casper Grön,M,pormestari,NA,1200,Käkisalmi,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
-65,1200-1667-04-20b,420255,1100,420308,NA,rahavelka,17 Dr 4 ör Kmtt,oluesta; viinasta ja mausteista,Hindrick Hindrichsson Blankenhagen,M,raatimies,Hindrich ,1100,Nevanlinna,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
+63,1200-1667-04-15b,420332,1200,420219,1200,rahavelka,7 Dr Kpmtt,tapahtui Narvassa kesällä 1666,Johan Grön,M,NA,NA,1200,Käkisalmi,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
+64,1200-1667-04-15b,420263,1200,420219,1200,rahavelka,135 Dr Kpmtt,135 Dr Kpmtt = 45 Dr Smtt,Casper Grön,M,pormestari,NA,1200,Käkisalmi,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
+65,1200-1667-04-20b,420255,1100,420219,NA,rahavelka,17 Dr 4 ör Kmtt,oluesta; viinasta ja mausteista,Hindrick Hindrichsson Blankenhagen,M,raatimies,Hindrich ,1100,Nevanlinna,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
 66,1200-1667-04-20b,420255,1100,420333,NA,rahavelka,17 Dr 4 ör Kmtt,oluesta; viinasta ja mausteista,Hindrick Hindrichsson Blankenhagen,M,raatimies,Hindrich ,1100,Nevanlinna,Simon Brusisson,M,porvari,NA,1200,Käkisalmi
 67,1200-1667-04-20b,420255,1100,420429,NA,rahavelka,17 Dr 4 ör Kmtt,oluesta; viinasta ja mausteista,Hindrick Hindrichsson Blankenhagen,M,raatimies,Hindrich ,1100,Nevanlinna,Petter Lijnwäfware,M,porvari,NA,NA,NA
 68,1200-1667-04-20b,420255,1100,420390,NA,rahavelka,17 Dr 4 ör Kmtt,oluesta; viinasta ja mausteista,Hindrick Hindrichsson Blankenhagen,M,raatimies,Hindrich ,1100,Nevanlinna,Simon Cnutsson,M,porvari,NA,NA,NA
 69,1200-1667-04-20b,420255,1100,420001,NA,rahavelka,17 Dr 4 ör Kmtt,oluesta; viinasta ja mausteista,Hindrick Hindrichsson Blankenhagen,M,raatimies,Hindrich ,1100,Nevanlinna,Hendrich Krydi,M,raatimies,porvari,NA,Käkisalmi
-70,1200-1667-05-08a,420431,NA,420297,1200,valtuutus,NA,NA,Lucas Zittung,M,porvari,kauppias,NA,NA,Jochim Fresse,M,NA,postimestari,1200,Käkisalmi
-71,1200-1667-05-08a,420431,NA,420432,1200,rahavelka,120 Dr 10 ör Kmtt,NA,Lucas Zittung,M,porvari,kauppias,NA,NA,Laurentius Stephani,M,kirkkoherra,NA,1200,Käkisalmi
+70,1200-1667-05-08a,420336,NA,420297,1200,valtuutus,NA,NA,Lucas Zittung,M,porvari,kauppias,NA,NA,Jochim Fresse,M,NA,postimestari,1200,Käkisalmi
+71,1200-1667-05-08a,420336,NA,420432,1200,rahavelka,120 Dr 10 ör Kmtt,NA,Lucas Zittung,M,porvari,kauppias,NA,NA,Laurentius Stephani,M,kirkkoherra,NA,1200,Käkisalmi
 72,1200-1667-06-15a,420294,1100,420333,1200,rahavelka,150 Dr 16 öre Kmtt,NA,Berendt Timmerman,M,raatimies,NA,1100,Nevanlinna,Simon Brusisson,M,porvari,NA,1200,Käkisalmi
 73,1200-1667-06-15a,420294,1100,420334,NA,valtuutus,NA,NA,Berendt Timmerman,M,raatimies,NA,1100,Nevanlinna,Peter Schlöter,M,NA,palkollinen,NA,NA
 74,1200-1667-06-15c,420383,NA,420434,NA,rahavelka,10 Dr Kmtt,NA,Grels Erichson,M,porvari,NA,1200,Käkisalmi,Lars Kämpin,M,NA,NA,NA,NA
@@ -92,7 +92,7 @@
 90,1200-1667-09-23a,420342,1200,420343,1100,tavaravelka,3 lbd 7 mk voita ja muita tarvikkeita,Leski velkaa Timmermanin palvelijan Permöllerin talonpojalle ,Elin Sawolain,N,NA,NA,1200,Käkisalmi,Berendt Permöller,M,NA,palvelija,1200,Käkisalmi
 91,1200-1667-10-12a,420383,NA,420435,NA,rahavelka,12 Dr 14 ör Kmtt,tupakasta,Grels Erichson,M,porvari,NA,1200,Käkisalmi,Henrich Henrichsson,M,NA,teurastaja,NA,NA
 92,1200-1667-10-12c,420383,NA,420436,NA,rahavelka,13 Dr 14 ör Kpmtt,NA,Grels Erichson,M,porvari,NA,1200,Käkisalmi,Elias From,M,NA,NA,NA,NA
-93,1200-1667-11-23b,420436,NA,420308,NA,rahavelka,8 Dr Kpmtt,lehmästä,Elias From,M,NA,NA,NA,NA,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
+93,1200-1667-11-23b,420436,NA,420219,NA,rahavelka,8 Dr Kpmtt,lehmästä,Elias From,M,NA,NA,NA,NA,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
 94,1200-1668-02-18a,420437,NA,420438,NA,valtuutus,NA,NA,Catharina Welleriansdotter,N,NA,NA,NA,NA,Johan Matsson,M,NA,NA,NA,NA
 95,1200-1668-02-18a,420437,NA,420331,NA,rahavelka,102 Dr 13 ör Smtt,NA,Catharina Welleriansdotter,N,NA,NA,NA,NA,Hans Mortomer,M,NA,kauppias,1100,Nevanlinna
 96,1200-1668-02-18d,420425,1100,420331,NA,rahavelka,97 Dr 31 ör Smtt,NA,Evert Huck,M,NA,NA,1100,Nevanlinna,Hans Mortomer,M,NA,kauppias,1100,Nevanlinna
@@ -106,7 +106,7 @@
 104,1200-1669-01-27a,420255,1100,420299,1200,kauppa,NA,Düster sanoi; ettei tupakka ole hänen vaan Blankenhagenin ja hän saisi vapaasti myydä,Hindrick Hindrichsson Blankenhagen,M,raatimies,Hindrich ,1100,Nevanlinna,Michel Düster,M,raatimies,NA,1200,Käkisalmi
 105,1200-1669-01-27a,420255,1100,420345,1200,kauppa,NA,Leski sanoi samaa kuin Düster,Hindrick Hindrichsson Blankenhagen,M,raatimies,Hindrich ,1100,Nevanlinna,Anna Pedersdotter,N,NA,tykistöluutnantin vaimo,1200,Käkisalmi
 106,1200-1669-01-27a,420345,1200,420346,1200,avioliitto,NA,NA,Anna Pedersdotter,N,NA,tykistöluutnantin vaimo,1200,Käkisalmi,artilleri leutenant,M,NA,tykistöluutnantti,1200,Käkisalmi
-107,1200-1669-02-27a,420440,2015,420308,1200,kauppa,NA,hevonen; 10 Dr 14 ör Kpmtt velkaa,Anders Olufson,M,talonpoika,NA,2015,Kilpola,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
+107,1200-1669-02-27a,420440,2015,420219,1200,kauppa,NA,hevonen; 10 Dr 14 ör Kpmtt velkaa,Anders Olufson,M,talonpoika,NA,2015,Kilpola,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
 108,1200-1669-03-06b,420441,2010,420442,1200,kauppa,NA,hevonen; 36 Dr Kpmtt velkaa,Simon Hinrichson,M,NA,NA,2010,Jaakkimanvaara,Matts Olkonen,M,NA,NA,1200,Käkisalmi
 109,1200-1669-03-08a,420385,1200,420443,1200,kauppa,NA,3 saippuapalaa; 5 hienoa nahkaa; punaista silkkiä,Hinrich Pirhoin,M,NA,NA,1200,Käkisalmi,Jöran Nilsson Heike,M,porvari,NA,1200,Käkisalmi
 110,1200-1669-05-03b,420344,1200,420347,1200,rahavelka,10 dr kmt, siitä että Ahlenius oli tehnyt pöytäkirjat sortavalalaisten porvarien kanssa käydystä asiasta; olivat toisilleen velkaa,Eskil Thomasson,M,NA,tupakkakomppanian tarkastaja,1200,Käkisalmi,Mathias Alhemius,M,NA,inspektor,1200,Käkisalmi
@@ -123,7 +123,7 @@
 121,1200-1670-03-26b,420263,1200,420291,8000,rahavelka,5 Dr 30 öre Kmtt,NA,Casper Grön,M,pormestari,NA,1200,Käkisalmi,Miska Cananoff,M,NA,NA,1200,Käkisalmi
 122,1200-1670-03-28a,420447,1300,420448,1200,kauppa,3 dr Kpmtt,ett rask; kangas,Inge Petersdotter,N,NA,NA,1300,Sortavala,Peter Andersson,M,NA,NA,1200,Käkisalmi
 123,1200-1670-07-27b,420028,1200,420385,1200,riita,NA,NA,Gabriel Hinnel,M,pormestari,NA,NA,Käkisalmi,Hinrich Pirhoin,M,NA,NA,1200,Käkisalmi
-124,1200-1670-08-22b,420450,NA,420308,1200,velka,75 dr Kpmtt,NA,Ondri Coroloff,M,NA,NA,NA,NA,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
+124,1200-1670-08-22b,420450,NA,420219,1200,velka,75 dr Kpmtt,NA,Ondri Coroloff,M,NA,NA,NA,NA,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
 125,1200-1670-12-19a,420455,NA,420452,NA,vanhempi,NA,NA,Sigfred Matzon,M,porvari,NA,NA,NA,Staffan Sigfredsson,M,NA,NA,NA,NA
 126,1200-1670-12-19a,420460,NA,420452,NA,sisarus,NA,NA,Sigfrid Sigfredsson,M,NA,NA,NA,NA,Staffan Sigfredsson,M,NA,NA,NA,NA
 127,1200-1670-12-19a,420461,NA,420453,NA,vanhempi,NA,NA,Hinrich Pirhoin,M,NA,NA,NA,NA,Eskill Hinricsson Pirhoin,M,NA,NA,1200,Käkisalmi
@@ -170,7 +170,7 @@
 168,1200-1674-03-16b,420371,1200,420357,1200,kauppa,NA,olut; krouvaaminen,Maria Pelkonen,N,NA,NA,NA,NA,Zacharias Joensson,M,NA,kamreeri,1200,Käkisalmi
 169,1200-1674-07-06a,420373,1200,420372,1200,avioliitto,NA,mies jättänyt vaimonsa; varastanut hänen lastensa hevosen ja myynyt sen kaupunkiin. Ostaja kuollut mutta haluaa korvauksen leskeltä,Elin Jöransdotter,N,porvari,NA,1200,Käkisalmi,Michell Brusison,M,porvari,NA,1200,Käkisalmi
 170,1200-1674-09-16a,420294,1100,420547,NA,valtuutus,NA,NA,Berendt Timmerman,M,raatimies,NA,1100,Nevanlinna,Johan Wästerhusen,M,NA,NA,NA,NA
-171,1200-1674-09-16a,420294,1100,420308,1200,velka,54 Dr kmtt,7 vuotta vanha velka,Berendt Timmerman,M,raatimies,NA,1100,Nevanlinna,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
+171,1200-1674-09-16a,420294,1100,420219,1200,velka,54 Dr kmtt,7 vuotta vanha velka,Berendt Timmerman,M,raatimies,NA,1100,Nevanlinna,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
 172,1200-1674-09-23b,420549,NA,420387,NA,sisarus,NA,NA,Johan Ortuska,M,vänrikki,NA,NA,NA,Hinrich Ortuska,M,NA,NA,NA,NA
 173,1200-1674-09-23b,420660,NA,420661,NA,sisarus,NA,NA,Mathias Michelsson,M,NA,NA,NA,NA,Jeremias Michelsson,M,NA,NA,NA,NA
 174,1200-1675-04-12a,420375,1200,420374,1200,avioliitto,NA,nainen leskenä 1675,Herich Skomakaren leski,N,NA,NA,1200,Käkisalmi,Henrich Skomakare,M,NA,NA,1200,Käkisalmi
@@ -386,12 +386,12 @@
 384,1200-1686-11-08a,420523,1200,420137,1200,sisarus,NA,NA,Lars Michelsson,M,NA,NA,1200,Käkisalmi,Jeremias Michelsson Sihvo,M,porvari,NA,1200,Käkisalmi
 385,1200-1686-11-08a,420523,1200,420037,1200,sisarus,NA,NA,Lars Michelsson,M,NA,NA,1200,Käkisalmi,Hindrich Michelsson Sihvo,M,raatimies,porvari,NA,Käkisalmi
 386,1200-1686-11-20a,420120,1200,420524,1200,velka,1 Dr 24 öre,Forsman oli lainannut rahaa; mutta ei maksanut takaisin tai luovuttanut panttia; joten Kaasoin otti häneltä housut pantiksi ja ajoi nakuna naapurin pihaan,Johan Kaasoin,M,porvari,NA,1200,Käkisalmi,Anders Forsman,M,NA,sotilas,1200,Käkisalmi
-387,1200-1686-11-27a,420258,1200,420256,1200,varkaus,NA,NA,Erik Hanson Willand,M,NA,laivuri,1200,Käkisalmi,Gröön,M,NA,kauppias,1200,Käkisalmi
-388,1200-1686-11-27a,420230,1200,420256,1200,varkaus,NA,NA,Eskill Tukia,M,NA,perämies,1200,Käkisalmi,Gröön,M,NA,kauppias,1200,Käkisalmi
-389,1200-1686-11-27a,420270,1200,420256,1200,varkaus,NA,NA,Henrik Larsson,M,NA,merimies,1200,Käkisalmi,Gröön,M,NA,kauppias,1200,Käkisalmi
-390,1200-1686-11-27a,420271,1200,420256,1200,varkaus,NA,NA,Lars Kåsoin,M,NA,merimies,1200,Käkisalmi,Gröön,M,NA,kauppias,1200,Käkisalmi
-391,1200-1686-11-27a,420272,1200,420256,1200,varkaus,NA,NA,Jöran Michellson,M,NA,merimies,1200,Käkisalmi,Gröön,M,NA,kauppias,1200,Käkisalmi
-392,1200-1686-11-27a,420256,1200,420257,6001,valtuutus,NA,NA,Gröön,M,NA,kauppias,1200,Käkisalmi,Herman Dassou,M,NA,NA,6001,Tukholma
+387,1200-1686-11-27a,420258,1200,420158,1200,varkaus,NA,NA,Erik Hanson Willand,M,NA,laivuri,1200,Käkisalmi,Gröön,M,NA,kauppias,1200,Käkisalmi
+388,1200-1686-11-27a,420230,1200,420158,1200,varkaus,NA,NA,Eskill Tukia,M,NA,perämies,1200,Käkisalmi,Gröön,M,NA,kauppias,1200,Käkisalmi
+389,1200-1686-11-27a,420270,1200,420158,1200,varkaus,NA,NA,Henrik Larsson,M,NA,merimies,1200,Käkisalmi,Gröön,M,NA,kauppias,1200,Käkisalmi
+390,1200-1686-11-27a,420271,1200,420158,1200,varkaus,NA,NA,Lars Kåsoin,M,NA,merimies,1200,Käkisalmi,Gröön,M,NA,kauppias,1200,Käkisalmi
+391,1200-1686-11-27a,420272,1200,420158,1200,varkaus,NA,NA,Jöran Michellson,M,NA,merimies,1200,Käkisalmi,Gröön,M,NA,kauppias,1200,Käkisalmi
+392,1200-1686-11-27a,420158,1200,420257,6001,valtuutus,NA,NA,Gröön,M,NA,kauppias,1200,Käkisalmi,Herman Dassou,M,NA,NA,6001,Tukholma
 393,1200-1688-06-16a,420526,1200,420297,1200,avioliitto,NA,nainen leskenä 1686,Elisabetha Harder,N,NA,NA,1200,Käkisalmi,Jochim Fresse,M,NA,postimestari,1200,Käkisalmi
 394,1200-1688-06-16a,420526,1200,420525,1200,kauppa,360 Dr kmt,tilakaupat lesken tilasta 'inom befästningen',Elisabetha Harder,N,NA,NA,1200,Käkisalmi,Olof Lestenius,M,aatelinen,kihlakunnankirjuri,1200,Käkisalmi
 395,1200-1688-06-16a,420526,1200,420527,5002,vanhempi,NA,NA,Elisabetha Harder,N,NA,NA,1200,Käkisalmi,Herman Frese,M,porvari,kauppias,5002,Viipuri
@@ -499,7 +499,7 @@
 497,1200-1675-03-01a,420011,NA,420662,NA,tavaravelka,1 tunnor öhl,NA,Samuel Påelsson,M,porvari,NA,NA,Käkisalmi,Paramon Labanoff,M,NA,NA,1200,Käkisalmi
 498,1200-1675-03-01a,420662,NA,420011,NA,velka,69 Dr 24 öre Kpmtt,NA,Paramon Labanoff,M,NA,NA,1200,Käkisalmi,Samuel Påelsson,M,porvari,NA,NA,Käkisalmi
 499,1200-1675-03-01a,420011,NA,420663,NA,avioliitto,NA,NA,Samuel Påelsson,M,porvari,NA,NA,Käkisalmi,NN,N,NA,NA,1200,Käkisalmi
-500,1200-1675-03-01a,420663,NA,420308,NA,sisarenpoika,NA,jääviys?,NN,N,NA,NA,1200,Käkisalmi,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
+500,1200-1675-03-01a,420663,NA,420219,NA,sisarenpoika,NA,jääviys?,NN,N,NA,NA,1200,Käkisalmi,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
 501,1200-1675-03-01b,420662,NA,420664,NA,velka,NA,NA,Paramon Labanoff,M,NA,NA,1200,Käkisalmi,NN,N,NA,NA,NA,NA
 502,1200-1675-04-14b,420665,NA,420666,NA,kauppa,9 Dr 8 öre Kmtt,tupakkaa,Ondri Coroloff,M,NA,NA,1300,Sortavala,Hinrich Hinrichson,M,NA,seppä,1200,Käkisalmi
 503,1200-1675-04-14b,420665,NA,420666,NA,rahavelka,9 Dr 8 öre Kmtt,tupakasta,Ondri Coroloff,M,NA,NA,1300,Sortavala,Hinrich Hinrichson,M,NA,seppä,1200,Käkisalmi
@@ -528,12 +528,12 @@
 526,1200-1680-03-10a,420461,NA,420714,NA,takaus,82 Dr 10 öre Kpmtt,NA,Hinrich Pirhoin,M,NA,NA,NA,NA,Eskil Haikonen,M,porvari,NA,1200,Käkisalmi
 527,1200-1680-03-10a,420496,1100,420714,NA,rahavelka,82 Dr 10 öre Kpmtt,NA,Christian Hurck,M,NA,NA,NA,NA,Eskil Haikonen,M,porvari,NA,1200,Käkisalmi
 528,1200-1680-03-10a,420496,1100,420253,1100,valtuutus,NA,ei mainita jutussa itsessään; vain ympäröivissä jutuissa,Christian Hurck,M,NA,NA,NA,NA,Hindrick Luur,M,NA,NA,1200,Käkisalmi
-529,1200-1680-03-15c,420503,NA,420308,NA,tavaravelka,18 mk,kuoretta tai muuta pikkukalaa; Pirhonen vaatii 30 mk maksua; ostettu Tukholmassa 1678,Eskil Hindrichson Pirhoin,M,NA,NA,1200,Käkisalmi,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
+529,1200-1680-03-15c,420503,NA,420219,NA,tavaravelka,18 mk,kuoretta tai muuta pikkukalaa; Pirhonen vaatii 30 mk maksua; ostettu Tukholmassa 1678,Eskil Hindrichson Pirhoin,M,NA,NA,1200,Käkisalmi,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
 530,1200-1680-12-08a,420011,1200,420685,NA,rahavelka,3 Dr 8 öre Kmtt,NA,Samuel Påelsson,M,porvari,NA,NA,Käkisalmi,Rassmus Matsson,M,porvari,NA,NA,NA
 531,1200-1680-12-08a,420685,NA,420716,NA,vanhempi,NA,NA,Rassmus Matsson,M,porvari,NA,NA,NA,Jöran Rassmusson,M,NA,NA,NA,NA
 532,1200-1681-04-09a,420714,1200,420717,2017,kauppa,55 Dr Kpmtt,hevonen; kauppa vuonna 1678; otti hevosen takaisin,Eskil Haikonen,M,porvari,NA,1200,Käkisalmi,Thomas Kopio,M,NA,NA,2017,Sakkola
 533,1200-1681-04-09a,420461,1200,420714,1200,rahavelka,62 Dr Kpmtt,NA,Hinrich Pirhoin,M,NA,NA,NA,NA,Eskil Haikonen,M,porvari,NA,1200,Käkisalmi
-534,1200-1681-06-20c,420718,2015,420308,1200,rahavelka,10 Dr Kpmtt,NA,Mårten Hinderson,M,talonpoika,NA,2015,Haapalahti,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
+534,1200-1681-06-20c,420718,2015,420219,1200,rahavelka,10 Dr Kpmtt,NA,Mårten Hinderson,M,talonpoika,NA,2015,Haapalahti,Erich Hinrichson Kuisma,M,porvari,NA,1200,Käkisalmi
 535,1200-1681-11-10a,420721,2008,420504,1100,kauppa,NA,350 tn tervaa; venäläiset kauppiaat kuljettivat tervan Nevanlinnaan kesällä 1680,Ante Kettola,M,talonpoika,NA,2008,Villala,Hans Pölke,M,porvari,NA,1100,Nevanlinna
 536,1200-1681-11-10a,420721,2008,420504,1100,kauppa,NA,450 tn tervaa; venäläiset kauppiaat kuljettivat tervan Nevanlinnaan ja toivat takaisin suolaa; kesällä 1681; Pölck maksanut 16 äyriä tynnyriltä,Ante Kettola,M,talonpoika,NA,2008,Villala,Hans Pölke,M,porvari,NA,1100,Nevanlinna
 537,1200-1698-04-30a,420681,1200,420682,1200,avioliitto,NA,NA,Anna Margareta Twilling,N,NA,matrona,NA,NA,Carl Printz,M,NA,NA,NA,NA
@@ -551,16 +551,16 @@
 549,1200-1684-04-05d,420731,NA,420730,NA,kauppa,48 Dr Kmtt,hevoskauppa,Melcher Kuhonen,M,NA,NA,NA,NA,Johan Michelson,M,NA,NA,NA,NA
 550,1200-1684-05-17f,420496,1100,420497,1200,rahavelka,85 Dr Kmtt,NA,Christian Huek,M,raatimies,NA,1100,Nevanlinna,Johan Röling,M,NA,NA,1200,Käkisalmi
 551,1200-1684-05-17g,420496,1100,420732,1200,rahavelka,351 Dr Kmtt,NA,Christian Huek,M,raatimies,NA,1100,Nevanlinna,Eskil Jakobson,M,NA,NA,1200,Käkisalmi
-552,1200-1684-08-25a,420733,1100,420734,1200,kauppa,31 Dr 20 öre Kmtt,humalaa,Petter Slyter,M,porvari,kauppias,1100,Nevanlinna,Erich Kosma,M,NA,NA,1200,Käkisalmi
+552,1200-1684-08-25a,420733,1100,420219,1200,kauppa,31 Dr 20 öre Kmtt,humalaa,Petter Slyter,M,porvari,kauppias,1100,Nevanlinna,Erich Kosma,M,NA,NA,1200,Käkisalmi
 553,1200-1684-08-25b,420733,1100,420730,1200,rahavelka,20 Dr Kmtt,NA,Petter Slyter,M,porvari,kauppias,1100,Nevanlinna,Johan Michelson,M,NA,NA,NA,NA
-554,1200-1684-08-25c,420735,1100,420734,1200,tavaravelka,55 Dr Kmtt,korvaus tervasta,Hans Jürgen,M,porvari,NA,1100,Nevanlinna,Erich Kosma,M,NA,NA,1200,Käkisalmi
+554,1200-1684-08-25c,420735,1100,420219,1200,tavaravelka,55 Dr Kmtt,korvaus tervasta,Hans Jürgen,M,porvari,NA,1100,Nevanlinna,Erich Kosma,M,NA,NA,1200,Käkisalmi
 555,1200-1685-01-10b,420736,1100,420011,1200,kauppa,14 Dr Kmtt,tupakkaa,Otto Såldan,M,porvari,kauppias,1100,Nevanlinna,Samuel Påelsson,M,porvari,NA,NA,Käkisalmi
 556,1200-1685-01-10c,420496,1100,420725,1200,rahavelka,127 Dr 7;5 öre Kmtt,NA,Christian Huek,M,raatimies,NA,1100,Nevanlinna,Johan Pasanen,M,NA,NA,NA,NA
-557,1200-1685-03-30a,420734,NA,420737,NA,rahavelka,7 Dr Kmtt,hevosrahti,Erich Kosma,M,NA,NA,1200,Käkisalmi,Håkan Laitinen,M,NA,NA,NA,NA
+557,1200-1685-03-30a,420219,NA,420737,NA,rahavelka,7 Dr Kmtt,hevosrahti,Erich Kosma,M,NA,NA,1200,Käkisalmi,Håkan Laitinen,M,NA,NA,NA,NA
 558,1200-1686-03-24a,420158,NA,420738,NA,rahavelka,24 Dr Kmtt,majoituksesta,Victor Gröön,M,porvari,kauppias,1200,Käkisalmi,Maria Pelkoin,N,NA,NA,NA,NA
 559,1200-1688-01-09e,420596,NA,420741,NA,valtuutus,NA,NA,Conrad Siliakz,M,NA,NA,1100,Nevanlinna,Mårten Siliakz,M,NA,NA,1100,Nevanlinna
 560,1200-1688-01-09e,420596,1100,420729,1200,rahavelka,19 Dr 16 öre Kmtt,NA,Conrad Siliakz,M,NA,NA,1100,Nevanlinna,Elias Kuha,M,NA,NA,NA,NA
-561,1200-1689-03-23b,420742,2015,420734,1200,rahavelka,12 Dr 24 ör Kmtt,hevoskauppa,Lars Thomasson,M,NA,NA,2015,Mustala,Erich Kosma,M,NA,NA,1200,Käkisalmi
+561,1200-1689-03-23b,420742,2015,420219,1200,rahavelka,12 Dr 24 ör Kmtt,hevoskauppa,Lars Thomasson,M,NA,NA,2015,Mustala,Erich Kosma,M,NA,NA,1200,Käkisalmi
 562,1200-1690-02-01a,420602,1200,420133,1200,tavaravelka,21 Dr Kmtt,sekatavaraa,Johan Meroin,M,porvari,NA,1200,Käkisalmi,Michel Tackinen,M,porvari,NA,1200,Käkisalmi
 563,1200-1690-02-01a,420602,1200,420133,1200,kauppakumppani,NA,NA,Johan Meroin,M,porvari,NA,1200,Käkisalmi,Michel Tackinen,M,porvari,NA,1200,Käkisalmi
 564,1200-1690-02-01a,420602,1200,420211,1200,kauppakumppani,NA,NA,Johan Meroin,M,porvari,NA,1200,Käkisalmi,Samuel Silfwast,M,porvari,NA,1200,Käkisalmi
@@ -576,6 +576,6 @@
 574,1200-1665-02-25e,420423,NA,420299,1200,kauppa,NA,suola,Hans Wagner,M,NA,NA,NA,NA,Michel Düster,M,raatimies,NA,1200,Käkisalmi
 575,1200-1665-10-30a,420341,1200,420740,1200,vanhempi,NA,Isä kuolleena 1665,Simon Larsson,M,NA,NA,1200,Käkisalmi,Anna Simonsdotter,N,NA,NA,NA,NA
 576,1200-1670-05-09a,420503,1200,420452,1200,matkusti yhdessä,NA,Eskil lainannut Staffanille puolitynnyrin Tukholmassa,Eskil Hindrichson Pirhoin,M,NA,NA,1200,Käkisalmi,Staffan Sigfredsson,M,NA,NA,NA,NA
-577,1200-1670-08-01a,420450,1200,420446,1200,riita,NA,riita 21 tupakasta,Ondri Coroloff,M,NA,NA,NA,NA,Eskill Thomasson,M,NA,NA,1200,Käkisalmi
+577,1200-1670-08-01a,420450,1200,420344,1200,riita,NA,riita 21 tupakasta,Ondri Coroloff,M,NA,NA,NA,NA,Eskill Thomasson,M,NA,NA,1200,Käkisalmi
 578,1200-1671-02-04a,420377,1200,420385,1200,riita,NA,riita perämiehen palkasta Koivisto-Tukholma,Samuel Påelsson,M,NA,perämies,NA,NA,Hinrich Pirhoin,M,NA,NA,1200,Käkisalmi
 579,1200-1671-02-06a,420377,1200,420385,1200,vihamies,NA,riita Tukholmassa; sanoivat olevansa vihamiehiä,Samuel Påelsson,M,NA,perämies,NA,NA,Hinrich Pirhoin,M,NA,NA,1200,Käkisalmi
