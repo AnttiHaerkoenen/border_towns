@@ -1,7 +1,7 @@
 Stockholm,\bstoc?kholm
-Rävel,\br[eä]vel
-Narfwa,\bnarf?[wvu](a|e)
-Nyen,\b(n(y|i|ij|u)ens?)|(skant?[zs]+en)
+Rävel,\br[eä]v[ae]l
+Narva,\bnarf?[wvu](a|e)n?
+Nyen,\b(n(y|i|ij|u)ens?)|(skant?[zs]+(en)?)
 Lübeck,\bl(y|ü)bec?k
 Hamburg,\bhamburgh?
 Amsterdam,\bamsterdam
@@ -13,6 +13,7 @@ Olonetz,\bol+o(=-)?\s?n[ie]?t?[sz]
 Aunus,\ba[ug]n[iu]s(m[ao])?
 Ulå,\b[ou]le?[oå]\s
 Novgorod,\bno[vw]gorodh?
+Moskou,\bmos[ck][ao][uv]
 Lava,\bsla[vw]a
 Ladoga,\bladoga
 Nötheborg,\bnöth?e(=|-)\s?b[ou]rgh?
