@@ -1,9 +1,9 @@
 skyldig,\bs[ck]h?(y|ij|u|v|w)l+dh?igh?
-skuld,\bs[ck]h?(y|ij|u|v|w)l+dh?\b
+skuld,\bs[ck]h?(y|ij|u|v|w)l+dh?
 gäld,\bgi?[äe]ldh?[sz]?\b
-betala,\bbeta+h?l
+betala,\bbeta+h?l(a|t|de)
 intresse,\binte?res+e
-derivera,\bderiver
+derivera,\bderivera(t|de)?
 pant,\bpanth?e?n?\b
 borgen,\bborgh?en
 fordra,\bfor?dh?ra
@@ -16,7 +16,7 @@ utlåna,\buth?lån
 tillstå,\btillst[åa]
 vexel,[wv]e(x|k|ck|c)s?el+
 arrest,\bar+est
-caution,\bcautio
-confiscera,\bconfisce
+caution,\bcaution?
+confiscera,\bconfiscera(t|de)?
 credit,\bcredit
 räkning,\br[äe](k|c|ch)+ningh?
