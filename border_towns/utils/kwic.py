@@ -93,8 +93,12 @@ def get_kwic_for_word(
             if end >= len(text):
                 end = len(text) - 1
             context = text[start:end].replace('\n', ' ')
+            if file.parts[-3] == 'external':
+                parent = file.parent.stem
+            else:
+                parent = '/'.join(file.parts[-3:-1])
             row = {
-                'parent': file.parent.stem,
+                'parent': parent,
                 'file': file.stem,
                 'page': page,
                 'keyword': term,

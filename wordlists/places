@@ -1,4 +1,5 @@
 Stockholm,\bstoc?kholm
+Åbo,\babo
 Rävel,\br[eä]v[ae]l
 Narva,\bnarf?[wvu](a|e)n?
 Nyen,\b(n(y|i|ij|u)ens?)|(skant?[zs]+(en)?)
@@ -13,7 +14,7 @@ Olonetz,\bol+o(=-)?\s?n[ie]?t?[sz]
 Aunus,\ba[ug]n[iu]s(m[ao])?
 Ulå,\b[ou]le?[oå]\s
 Novgorod,\bno[vw]gorodh?
-Moskou,\bmos[ck][ao][uv]
+Moskou,\bm[aou]s[ck][ao][uv]
 Lava,\bsla[vw]a
 Ladoga,\bladoga
 Nötheborg,\bnöth?e(=|-)\s?b[ou]rgh?
@@ -30,7 +31,7 @@ Suojerfwi,\bs(uo|o|oo)jerf?wi
 Suistamo,\bsuistam[oa]
 Pielisjerfwi,\bpielisjerf?wi
 Pälkjerfwi,\bp[äae]l[gk]jerf?wi
-Jougio,\bjou(g|k|ck)io
+Jougio,\bjou(g|k|ck)io?
 Jachimanwara,\bja+(ch|k)ima(n?wa+h?ra)?
 Karilla,\bkaril+a
 Tiurula,\btiurula

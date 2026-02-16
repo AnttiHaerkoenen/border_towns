@@ -81,6 +81,9 @@ kwic:
 	python ./border_towns/utils/kwic.py ./data/external/Kajana ./data/raw/Kajana/transport ./wordlists/transport --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Kajana ./data/raw/Kajana/family ./wordlists/family --window_size 100
 	python ./border_towns/utils/kwic.py ./data/external/Kajana ./data/raw/Kajana/places ./wordlists/places --window_size 100
+	# Combination
+	rm -rf ./data/raw/all
+	python ./border_towns/utils/combine_kwic.py ./data/raw ./data/raw/all
 
 ## Build network
 .PHONY: network
