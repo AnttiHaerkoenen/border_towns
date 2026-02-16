@@ -1,10 +1,13 @@
 Stockholm,\bstoc?kholm
-Åbo,\babo
+Åbo,\b[aå]bo
+Borgo,\bborgo
+Kemi,\bkemi
 Rävel,\br[eä]v[ae]l
 Narva,\bnarf?[wvu](a|e)n?
 Nyen,\b(n(y|i|ij|u)ens?)|(skant?[zs]+(en)?)
 Lübeck,\bl(y|ü)bec?k
 Hamburg,\bhamburgh?
+Carelen,\b[kc]arelen
 Amsterdam,\bamsterdam
 Brahea,\bbrahea
 Kajana,\b[kc]a[ij]ana
@@ -40,3 +43,6 @@ Räisälä,\br[eä]is[eä]l[äe]
 Sordavala,s[oå]rd[ae][wv]al+a
 torg,\btorgh?et
 gata,gatan?
+Tyskland,\bt(y|ij)s+klandh?
+Skåne,\bskåne
+Pommern,\bpommere?n?
