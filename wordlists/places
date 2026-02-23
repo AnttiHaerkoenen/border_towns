@@ -8,7 +8,8 @@ Nyen,\b(n(y|i|ij|u)ens?)|(skant?[zs]+(en)?)|nyn[oe]
 Lübeck,\bl(y|ü)bec?k
 Hamburg,\bhamburgh?
 Amsterdam,\bamsterdam
-Brahea,\bbrahea
+Brahea,\bbrahea?
+Lieksa,\blie(ks|x)a
 Kajana,\b[kc]a[ij]ana
 Kexholm,\b[kr]e(t|x|ks)holm
 Viborg,\b[wvu](ij|y|i)b[uo]rgh?
@@ -43,7 +44,7 @@ Tiurula,\btiurula
 Hiitola,\bhi+tola
 Sakkola,\bsac?k[oa]la
 Räisälä,\br[eä]is[eä]l[äe]
-Sordavala,\bs[oå]rd[ae][wv]al+a
+Sordavala,\b[sj][oå]rd[ae][wv]al+a
 Kivinebb,\bkivin[ae]b+s?
 Björkö,\bb[ij]örkö+
 Kuifwas,\bkuif?[vw]ai?s
@@ -54,7 +55,7 @@ Järvisaari,\bjer(f+)?[wvu]isa+ri
 Lappis,\blappis
 Inkere,\bin[gk]e?re?i?s?
 Slavanka,\bsl[ao][wv]i?[oa]nka
-Tuutari,\b[dt]u+d[ea]rs?(koi)?
+Tuutari,\b[dt]u+d[ea]re?s?(koi)?
 torg,\btorgh?et
 gata,\bgatan?
 Tyskland,\bt(y|ij)s+klandh?
