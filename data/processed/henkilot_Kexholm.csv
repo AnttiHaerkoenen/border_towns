@@ -1,0 +1,772 @@
+hlotunnus,nimi,sukupuoli,status_alkup,status_1,status_2,paikkatunnus,kotipaikka,nimen_variaatiot,lisatietoa
+420001,Hendrich Krydi,M,,raatimies,porvari,1200,Käkisalmi,Krydj; Krydz,
+420002,Vasili Kyykä,M,Vasilinpoika,raatimies,porvari,1200,Käkisalmi,Wasil; Kyki; Kijki,lisäraatimies kunnes varsinainen raatimies 22.5.1682
+420003,Berend Kaasoin,M,,raatimies,porvari,1200,Käkisalmi,Berendz; Berendt; Kaasoin; Kassoinen; Casain; Kaasoinen; Casa(?); Casalain; Kasalain,Raatimies 6.11.1682 lähtien
+420004,Michel Gudmunsson,M,chargianten,,kersantti,1200,Käkisalmi,,
+420005,Christina Zittman,N,,vaimo,,1200,Käkisalmi,Kirstin,
+420006,Elias Påelsson,M,,porvari,porvari,1200,Käkisalmi,Påhlsson,
+420007,Maria Johansdotter,N,Elias Påelssons hustru,hustru,porvari,1200,Käkisalmi,,
+420008,Jacob Ilo,M,,talonpoika,talonpoika,2016,Räisälä,,
+420009,Peter Neuwoin,M,,talonpoika,talonpoika,1300,Sortavala,Neufwoin,
+420010,Peter Matsson,M,,stadstienare,,1200,Käkisalmi,Mattzson,
+420011,Samuel Påelsson,M,,porvari,,1200,Käkisalmi,,
+420012,Mats Pärsson Jääskeläin,M,,porvari,,1200,Käkisalmi,"Mattz, Pehrsson, Jäskeläin, Jäkeläin, Jäskelain",
+420013,Lars Kuha,M,,porvari,,1200,Käkisalmi,,
+420014,Påel Tuchkalain,M,corporal,porvari,,1200,Käkisalmi,Tuchkalain,
+420015,Henrich Kålka,M,,,korpraali,1200,Käkisalmi,,
+420016,Erich Simonsson,M,,raatimies,,1200,Käkisalmi,,kuolleena vuonna 1682
+420017,Anders Erichsson,M,,,,1200,Käkisalmi,,
+420018,Thomas Kaasoin,M,,,,1200,Käkisalmi,Kaasoinen,
+420019,Johan Johansson Tuowinen,M,,,,1200,Käkisalmi,,duplikaatti 420043?
+420020,Eskil Jääskeläin,M,smed,porvari,seppä,1200,Käkisalmi,,
+420021,Simon Lewoska,M,,raatimies,,1200,Käkisalmi,Lefwoska; Lefweska,lisäraatimies kunnes varsinainen raatimies 22.5.1682
+420022,Johan Pärsson Pelli,M,,,krouvari,1200,Käkisalmi,Pehrsson,
+420023,Clemet Radikain,M,krögare; timberman,porvari,krouvari; timpuri,1200,Käkisalmi,Vadika; Radika; Raticka,
+420024,Jöran Simonsson,M,krögare,,krouvari,1200,Käkisalmi,,
+420025,Christer Pelkoinen,M,krögare,,krouvari,1200,Käkisalmi,,
+420026,Casper Mattsson Olkoinen,M,krögare,,krouvari,1200,Käkisalmi,Mattzson,
+420027,Matts Pärsson,M,uppsyningsman,,,1200,Käkisalmi,,
+420028,Gabriel Hinnel,M,,pormestari,,1200,Käkisalmi,,
+420029,Thomas Poika,M,,,,1200,Käkisalmi,,
+420030,Lars Ruotinen,M,,,,1200,Käkisalmi,"Ruotuin, Rotinen",
+420031,Matts Pirhoin,M,stadsbesökare; torgfogde,,tarkastaja; torivouti,1200,Käkisalmi,,
+420032,Simon Simonsson Ruini,M,,,,1200,Käkisalmi,,
+420033,Eissbiörn Hweissing,M,capitein,,kapteeni,1200,Käkisalmi,,
+420034,Knut Johansson,M,,porvari,porvari,1200,Käkisalmi,,
+420035,Gustaf Gustafsson,M,,porvari,porvari,1200,Käkisalmi,,
+420036,Hindrich Pirhoin,M,,,porvari,1200,Käkisalmi,,
+420037,Hindrich Michelsson Sihvo,M,,raatimies,porvari,1200,Käkisalmi,,
+420038,Ante Sallinen,M,skinnare,nahkuri,,1200,Käkisalmi, Sallmen,
+420039,Johan Muhelo,M,,,,1200,Käkisalmi,,duplikaatti 420229?
+420040,Sigfred Mattsson,M,,,,1200,Käkisalmi,,kuolleena 1682
+420041,Sigfred Mattssonin leski,N,,,,1200,Käkisalmi,,leski vuonna 1682
+420042,Påel Tuckelain,M,,porvari,,1200,Käkisalmi,,
+420043,Johan Johansson,M,,porvari,,1200,Käkisalmi,,
+420044,Heike Johansson,M,,talonpoika,,,Ossalax,,
+420045,Bertil Simonsson Orawa,M,,talonpoika,,1200,Käkisalmi,,
+420046,Hindrich Erichsson Heija,M,,porvari,,1200,Käkisalmi,Henrich,
+420047,Henrich Larsson Wirolain,M,,porvari,,1200,Käkisalmi,,"porvarin poika, vala 8.2.1682"
+420048,Anders Simonsson Walkonen,M,,porvari,,1200,Käkisalmi,,"porvarin poika, vala 8.2.1682"
+420049,Bertil Bollin,M,,porvari,,1200,Käkisalmi,Palli,https://digihakemisto.net/item/1215090003/9293453439/9
+420050,Johan Luckarin,M,,porvari,,1200,Käkisalmi,Luckarinen,
+420051,Jacob Hyväck,M,,porvari,,1200,Käkisalmi,,"porvarivala 8.2.1682, lofwade till Staden 15 D:r Kmt"
+420052,Gustaf Carlsson,M,,porvari,,1200,Käkisalmi,,
+420053,Lars Tobio,M,fiskare,porvari,kalastaja,1200,Käkisalmi,,porvarin poika
+420054,Nils Nolfwi,M,,,,1200,Käkisalmi,,
+420055,Matts Brusisson,M,,,,1200,Käkisalmi,,
+420056,Clemet Mattsson,M,stads corporalen,,,1200,Käkisalmi,,
+420057,Johan Heino,M,stads corporalen,,,1200,Käkisalmi,,
+420058,Jacob Ruotinen,M,,porvari,,1200,Käkisalmi,,
+420059,Johan Lewoska,M,,,,1200,Käkisalmi,,
+420060,Claes Waris,M,stads corporalen,,,1200,Käkisalmi,,
+420061,Lars Pirhoin,M,stads corporalen,porvari,,1200,Käkisalmi,,
+420062,Isak Jöransson,M,,porvari,,1200,Käkisalmi,Jörensson,
+420063,Maria Mattssdotter Pirhoin,N,,,,1200,Käkisalmi,,
+420064,Thomas Henrichsson Hanucka,M,,porvari,,1200,Käkisalmi,"Hannika, Hanucka",porvarivala 3.5.1682
+420065,Jacob Gröön,M,,,,1200,Käkisalmi,,https://digihakemisto.net/item/1215090003/9293453445/11
+420066,Thomas Henrichsson,M,forman,,,1200,Käkisalmi,,varmistettu: duplikaatti 420064
+420067,Caisa Petersdotter,N,,,,1200,Käkisalmi,,
+420068,Isak Jöranssons hustru,N,,,,1200,Käkisalmi,,
+420069,Henrich Krydin vaimo,N,,,,1200,Käkisalmi,,kuolleena vuonna 1682
+420070,Staffan Sigfredsson,M,,porvari,,1200,Käkisalmi,,porvarivala 28.1.1682
+420071,Henrich Hansson,M,skräddare,porvari,vaatturi,1200,Käkisalmi,,"porvarivala 22.4.1682, effter dhe intet äro Stadzens barn, böra altså gifwa hwarthera i burskap 15 D:r Km:t"
+420072,Matts Pirhoins hustru,N,,,,1200,Käkisalmi,,
+420073,Maria Nielsdotter,N,soldats hustru,,,1200,Käkisalmi,,
+420074,Helena Bertilsdotter,N,soldats hustru,,,1200,Käkisalmi,,
+420075,Henrich Henrichsson,M,soldaten,,sotilas,1200,Käkisalmi,,
+420076,Brita Jacobsdotter,N,Henrich Hendrichssons hustru,,,1200,Käkisalmi,,
+420077,Maria Andersdotter,N,stadstienarens Peter Matzons hustru,,,1200,Käkisalmi,,
+420078,Elin Måensdotter,N,soldats hustru,,,1200,Käkisalmi,,
+420079,Hans Rijk,M,borgmästare,pormestari,,1300,Sortavala,,
+420080,Matts Göök,M,,porvari,porvari,1200,Käkisalmi,Giöök,duplikaatti 420360?
+420081,Frantz Johansson,M,handelsman,raatimies,porvari,1200,Käkisalmi,,porvarivala 22.4.1682
+420082,Söfring Toifwainen,M,,raatimies,,1200,Käkisalmi,,
+420083,Johan Michelsson Sihvo,M,,porvari,,1200,Käkisalmi,,
+420084,Johan Jürgen Jänish,M,,,kauppias,1100,Nevanlinna,Johan Jürgen Jänijsch; Jänisk; Jämåhs; Jaenisch,
+420085,Thomas Thomasson,M,skomakare,porvari,suutari,1200,Käkisalmi,,"porvarivala 22.4.1682, effter dhe intet äro Stadzens barn, böra altså gifwa hwarthera i burskap 15 D:r Km:t"
+420086,Henrich Johansson Smedh,M,Smedh,porvari,seppä,1200,Käkisalmi,,
+420087,Anders Simonsson,M,,porvari,,1200,Käkisalmi,,
+420088,Nils Sigfredsson,M,,porvari,,1200,Käkisalmi,,
+420089,Michel Ruotinen,M,,porvari,,1200,Käkisalmi,,
+420090,Lars Jakawain,M,forman,porvari,,1200,Käkisalmi,,
+420091,Michel Philipson,M,,porvari,,1200,Käkisalmi,,
+420092,Heike Tukia,M,,porvari,,1200,Käkisalmi,Tuckia,
+420093,Johan Christersson,M,,porvari,,1200,Käkisalmi,,"porvarivala 22.4.1682, eij äro Stadzens barn, böra gifwa i Burskap 15 Dr Kmt"
+420094,Simon Eriksson,M,,porvari,,1200,Käkisalmi,,"porvarivala 22.4.1682, eij äro Stadzens barn, böra gifwa i Burskap 15 Dr Kmt"
+420095,Hendrich Penttinen,M,,porvari,,1200,Käkisalmi,,"porvarivala 22.4.1682, eij äro Stadzens barn, böra gifwa i Burskap 15 Dr Kmt"
+420096,Hans Andersson,M,stadszbonden,talonpoika,,1200,Käkisalmi,,
+420097,Erich Ruotinen,M,,,,1200,Käkisalmi,,
+420098,Eskil Jacobsson,M,,porvari,,1200,Käkisalmi,,porvarivala 26.4.1682
+420099,Lucas Olofsson,M,,porvari,,1200,Käkisalmi,Ollsson,porvarivala 26.4.1682
+420100,Erich Jurwain,M,,porvari,,1200,Käkisalmi,Jurfwain,porvarivala 26.4.1682
+420101,Mårten Andersson Hutri,M,,porvari,,1200,Käkisalmi,,porvarivala 26.4.1682
+420102,Johan Matsson Pasainen,M,,porvari,,1200,Käkisalmi,,porvarivala 26.4.1682
+420103,Jöran Silfwast,M,,porvari,,1200,Käkisalmi,Jören,
+420104,Johan Johansson Toifwiain,M,,,,1200,Käkisalmi,,duplikaatti 420043?
+420105,Elias Påelssonin leski,N,,,,1200,Käkisalmi,,duplikaatti 420007?
+420106,Johan Toifwiaisen käly,N,,,,1200,Käkisalmi,,svägerska
+420107,Peter Simonsson,M,,porvari,,1200,Käkisalmi,,
+420108,Michael Larsson Sormuinen,M,,porvari,,1200,Käkisalmi,Sormunen,
+420109,Eskil Kelkutti,M,,porvari,,1200,Käkisalmi,,
+420110,Thomas Kaasoin,M,,porvari,,1200,Käkisalmi,Casain; Kaasoin; Kaasoinen; Casa(?); Casalain; Kasalain,duplikaatti 420018?
+420111,Tretko Kyykä,M,,porvari,,1200,Käkisalmi,Kyka,"porvarivala 3.5.1682, mahdollisesti Vasili Vasilissonin poika ja Isac Kyykän veli, veloissa 1680-luvulla"
+420112,Thomas Pässi,M,,porvari,,1200,Käkisalmi,,porvarivala 3.5.1682
+420113,Lars Johansson,M,,porvari,,1200,Käkisalmi,,porvarivala 3.5.1682
+420114,Johan Hendersson Pärssinen,M,,porvari,,1200,Käkisalmi,,porvarivala 3.5.1682
+420115,Johan Simonsson Hiuulmakare,M,,porvari,,1200,Käkisalmi,,porvarivala 3.5.1682
+420116,Matts Poika,M,,porvari,,1200,Käkisalmi,,
+420117,Henrich Lotzson,M,,porvari,,1200,Käkisalmi,,
+420118,Elias Iwarsson,M,,porvari,,1200,Käkisalmi,Ifwarsson,
+420119,Michel Silfwast,M,,porvari,,1200,Käkisalmi,,
+420120,Johan Kaasoin,M,,porvari,,1200,Käkisalmi,,
+420121,Jacob Nilsson Printz,M,,,,1200,Käkisalmi,,
+420122,Nils Olsson Printz,M,hopman,,,1200,Käkisalmi,,kuolleena 1682
+420123,Elisabeth Blankenhagen,N,,,matrona,1200,Käkisalmi,Blankenharen,
+420124,Heike Ripainen,M,stadstienare,,,1200,Käkisalmi,,
+420125,Mårten Erichsson Spång,M,Capitain ,,kapteeni,1200,Käkisalmi,,"kuolleena 1682, Etunimen perusteella ei olisi Peter Spångin sukua, joka aateloitiin 30.5.1682 Gyllenspångiksi? "
+420126,,,,,,,,,
+420127,Heike Sutare,M,,,,1200,Käkisalmi,,
+420128,Lars Sallinen,M,,porvari,,1200,Käkisalmi,,
+420129,Erik Loustinen,M,forman,,,1200,Käkisalmi,,
+420130,Maria Pelkonen,N,krögare,,,1200,Käkisalmi,,krouvariksi leskenä 6.12.1671
+420131,Heike Pentinen,M,,,,1200,Käkisalmi,,
+420132,Jören Erichsson Nyländer,M,,porvari,,1200,Käkisalmi,,"porvarivala 6.5.1682,  lofwade Nylander till Stadhen 15 D.r Kmt. "
+420133,Michel Tackinen,M,,porvari,,1200,Käkisalmi,,porvarivala 6.5.1682
+420134,Mårten Swensson Linwäfware,M,,porvari,,1200,Käkisalmi,,porvarivala 6.5.1682
+420135,Knut Hannickain,M,,porvari,,1200,Käkisalmi,Hannika??,"porvarivala 6.5.1682, Hannickain lofwade till Mariadagh 10 D.r Kmt"
+420136,Jacob Skomakare,M,,porvari,,1200,Käkisalmi,,
+420137,Jeremias Michelsson Sihvo,M,,porvari,,1200,Käkisalmi,,
+420138,Carl Gustafsson,M,,,,1200,Käkisalmi,,
+420139,Simon Johansson,M,skinnare,porvari,,1200,Käkisalmi,,porvarivala 8.5.1682
+420140,Hans Hannickain,M,,porvari,,1200,Käkisalmi,,
+420141,Sigfred Sigfredsson Meroin,M,,porvari,,1200,Käkisalmi,,
+420142,Pär Andersson,M,fiskare,,kalastaja,1200,Käkisalmi,,
+420143,Lars Gustafsson,M,,porvari,,1200,Käkisalmi,,
+420144,Patrick Ogilvie,M,landshövning,,maaherra,1200,Käkisalmi,,
+420145,Berendt Mellin,M,landshövning,,maaherra,1200,Käkisalmi,,
+420146,Daniel Tilas,M,,,"asessori, revisiokomissaari",1200,Käkisalmi,,
+420147,Anders Finnberg,M,stadz secreterare,raatimies,kaupunginsihteeri,1200,Käkisalmi,Hinnberg; Finnbärg,raatimiehenvala 27.5.1682
+420148,Lars Larsson,M,,tienare,,1200,Käkisalmi,,Johan Jürgen Jänischen tiänare
+420149,Zacharias Joensson,M,,,kamreeri,1200,Käkisalmi,,kamreeri 1682
+420150,Olof Johansson,M,,,,1200,Käkisalmi,,
+420151,Olof Johanssonin leski,N,,,,1200,Käkisalmi,,
+420152,Jöran Korteh,M,,talonpoika,,1200,Käkisalmi,Jören,
+420153,Jöran Tijra,M,,kaupungin talonpoika,,1200,Käkisalmi,,
+420154,Mattz Turki,M,,talonpoika,,2015,Järvenpää,,lienee Hiitolan Järvenpää
+420155,Påel Eliasson,M,,porvari,,1200,Käkisalmi,,
+420156,Jacob Hendersson,M,,porvari,,1200,Käkisalmi,,
+420157,Staffan Meroin,M,,porvari,,1200,Käkisalmi,,
+420158,Victor Gröön,M,handelsman,porvari,kauppias,1200,Käkisalmi,,"1200-1682-11-06b: Gröön omisti laivan (skuuta) ilmeisesti yksin, joka kävi ainakin Pähkinälinnassa"
+420159,Anthoni Timmerman,M,,porvari,kauppias,1100,Nevanlinna,,
+420160,Axell Biörckhuldt,M,fullmakt,,,1200,Käkisalmi,,Victor Gröönin asiamies
+420161,Henrich Nokelain,M,soldaten,,sotilas,1200,Käkisalmi,,
+420162,Johan Lihapää,M,,,,1200,Käkisalmi,,kuollut viim 1666
+420163,Lars Wirolain,M,,,,1200,Käkisalmi,,
+420164,Johan Häyry,M,,,,1200,Käkisalmi,,
+420165,Mats Jurfwain,M,,porvari,,1200,Käkisalmi,,
+420166,Carin Johansdotter,M,,,,1200,Käkisalmi,,
+420167,Turo Andersson,M,soldat,,sotilas,1200,Käkisalmi,,
+420168,Pär Gyllenspång,M,,aatelinen,kapteeni,1200,Käkisalmi,Spång,"aatelisarvo 30.5.1682, sitä ennen Spång"
+420169,Henrich Hendersson,M,,,lahtari,1200,Käkisalmi,,
+420170,Tönes Hendrichsson,M,,dödgrävare,,1200,Käkisalmi,,
+420171,Mats Jörensson,M,,kaupungin talonpoika,,1200,Käkisalmi,,
+420172,Olof Hurskain,M,,,korpraali,1200,Käkisalmi,,
+420173,Erich Hansson Nylander,M,,,räätäli,1200,Käkisalmi,Nyländer,
+420174,Staffan Torsti,M,,talonpoika,,,,,Waruxela
+420175,Brita Michelsdotter,N,,,,1200,Käkisalmi,,
+420176,Henrich Ollsson Haltuin,M,,,,1200,Käkisalmi,,
+420177,Olof Haltuin,M,,,,1200,Käkisalmi,,
+420178,Bolardus Skomakare,M,,porvari,,1200,Käkisalmi,,
+420179,Henrich Hansson Ojala,M,,porvari,,1200,Käkisalmi,,
+420180,Michel Michelsson Sihvo,M,,porvari,,1200,Käkisalmi,,Henrichin 420037 veli
+420181,Elias Nielsson,M,timberman,,,1200,Käkisalmi,,
+420182,Anders Pelli,M,timberman,,,1200,Käkisalmi,,
+420183,Johan Eskilsson,M,,porvari,,1200,Käkisalmi,,
+420184,Hans Behm,M,,porvari,,1200,Käkisalmi,,
+420185,Olof Bengtsson,M,styckjunkare,,,1200,Käkisalmi,,
+420186,Caisa Henrichsdotter,N,soldats hustru,,,1200,Käkisalmi,,
+420187,Johan Kämbinen,M,soldat,,,1200,Käkisalmi,,
+420188,Carin Berentsdotter,N,skomakarens hustru,,,1200,Käkisalmi,,
+420189,Claes Simonsson,M,stads corporalen,,,1200,Käkisalmi,,
+420190,Clemet Mattsson,M,stads corporalen,,,1200,Käkisalmi,,duplikaatti 420056?
+420191,Henrich Wepsä,M,,,,1200,Käkisalmi,,
+420192,Caisa Johansdotter,N,,,,1200,Käkisalmi,,
+420193,Michel Hämäläin,M,,porvari,,1200,Käkisalmi,,
+420194,Mårten Hämäläin,M,,,,1200,Käkisalmi,,
+420195,Valborg,N,Mårten Hämäläins enka,,,1200,Käkisalmi,,
+420196,Matts Haikoinen,M,,soldat,,1200,Käkisalmi,,
+420197,Matts Düster,M,,,,1200,Käkisalmi,,
+420198,Matts Düsters hustru,N,,,,1200,Käkisalmi,,
+420199,Hans Klåckare,M,,Klockare,,1200,Käkisalmi,,
+420200,Bertil Wijk,M,,,,1200,Käkisalmi,,
+420201,Didrich Blom,M,,handelsman,,1100,Nevanlinna,,
+420202,Påel Eliasson Ojala,M,,,,1200,Käkisalmi,,duplikaatti 420155?
+420203,Johan Simonsson,M,,,,1200,Käkisalmi,,duplikaatti 420115?
+420204,Anders Eskilsson Mälkiä,M,,soldat,,1200,Käkisalmi,,
+420205,Anders Hutri,M,,talonpoika,,1200,Käkisalmi,Huttri,
+420206,Eskil Påelsson Ikoin,M,smed,,seppä,1200,Käkisalmi,,
+420207,Gabriel Sigfredsson,M,handtlangaren under Artolleriet,porvari,kauppias,1200,Käkisalmi,Sigfredhsson,
+420208,Matts Jurwain,M,,,,1200,Käkisalmi,Jurfwain,
+420209,Johan Claesson,M,proviantskrivare,,kirjuri,1200,Käkisalmi,,
+420210,Johan Nethaenius,M,,pappi,kappalainen,1200,Käkisalmi,Cappellanen H:r Johan,
+420211,Samuel Silfwast,M,,porvari,,1200,Käkisalmi,,
+420212,Vasil Kyykäs hustru,N,,,,1200,Käkisalmi,,Rysk religion
+420213,Anders Erichsson,M,,,,1200,Käkisalmi,,duplikaatti 420213?
+420214,Hans Welsing,M,,,,1100,Nevanlinna,Wellsin,
+420215,Christina Kämser,N,,,,1100,Nevanlinna,Kirstin Kemser,
+420216,Anders Snickare,M,,,nikkari,4003,Jääski,,
+420217,Maria Eskilsdotter Mälkiä,N,,,,1200,Käkisalmi,,
+420218,Brusi Mäskain,M,,,,1200,Käkisalmi,,
+420219,Erich Hindrichsson Kuossma,M,,,,1200,Käkisalmi,,
+420220,Kirstin Mattsdotter,N,Samuel Silfwas enka,,,1200,Käkisalmi,,leski v. 1699
+420221,Påel Safwolain,M,,porvari,,1200,Käkisalmi,Påfwell; Påål; Sawolain,
+420222,Johan Larsson,M,,,,1200,Käkisalmi,,
+420223,Carl Freese,M,,porvari,pormestari,1200,Käkisalmi,,
+420224,Jouchima Jacobsson,M,,porvari,,1200,Käkisalmi,Jacobson,
+420225,Jöran Eggertsson,M,,,sotilas,1200,Käkisalmi,,
+420226,Thomas Rohlin,M,,,luutnantti,1200,Käkisalmi,,
+420227,Måns Muhelo,M,,talonpoika,,2015,Hiitola,Månss,
+420228,Olof Persson Wäisäinen,M,,,båtsman,1200,Käkisalmi,,
+420229,Johan Månsson Muhelo,M,,,båtsman,1200,Käkisalmi,,
+420230,Eskil Johansson Tukia,M,styrman,,,1200,Käkisalmi,Tuckia; Eskill,"styrman 1678, duplikaatti 420259"
+420231,Matts Henrichsson,M,,,båtsman,1200,Käkisalmi,,
+420232,Henrich Koskull,M,,,båtsman,1200,Käkisalmi,,
+420233,Bertil Zachariasson,M,,,,1200,Käkisalmi,Bertill; Zachrisson,
+420234,Carl Gustav Wrangell,M,capitein?,vapaaherra,kapteeni,1200,Käkisalmi,Gustaff,"capitein? 1200-1682-05-15b, Lienee vapaaherra Johan Mauritz Wrangelin ja Beata Kaggin poika"
+420235,Sigfred Nilsson,M,,,kalastaja,1200,Käkisalmi,,
+420236,Berend Kaasoins hustru,N,,,porvari,1200,Käkisalmi,,
+420237,Herman Böök,M,,,,1200,Käkisalmi,,
+420238,Erich Simonssons enka,N,,,,1200,Käkisalmi,,
+420239,Årendt Mårtenson,M,,,sotilas,1200,Käkisalmi,,
+420240,Sigfred Sigfredsson Meroins moder,N,,,,1200,Käkisalmi,,
+420241,Michel Michelsson Sihvos hustru,N,,,,1200,Käkisalmi,,
+420242,Peter Glaasmästare,M,,,sotilas,1200,Käkisalmi,,
+420243,Carl Rosenlindt,M,,,tykistön kapteeni,1200,Käkisalmi,"Carll, Roslindt",https://ylioppilasmatrikkeli.fi/henkilo.php?id=1765
+420244,Commendat,M,,,,1200,Käkisalmi,,
+420245,Anders Hassoinen,M,,,sotilas,1200,Käkisalmi,,
+420246,Sillmä Grelss,M,,porvari,,1200,Käkisalmi,,
+420247,Huppuin,,,,,1200,Käkisalmi,,
+420250,Eskill Hinrichson Pirhonen,M,,,,1200,Käkisalmi,,"patronyymi yhteyden perusteella, duplikaatti 420453"
+420251,Johan Pirhonen,M,,,,1200,Käkisalmi,,
+420252,Christian Hueck,M,,raatimies,,,,,
+420253,Hindrick Luur,M,,,,,,Hendrick,duplikaatti 420570
+420254,Hindrick Pirhonen,M,,,,1200,Käkisalmi,,kuollut viim. 1680  --> 420036 HP on ollut elossa 1682 t. Jenni
+420255,Hindrick Hindrichsson Blankenhagen,M,,raatimies,Hindrich ,1100,Nevanlinna,Hindrich Pirhonen,"(junior) Hindrichsson, s. 1630 k. 1691"
+420256,Gröön,M,,,kauppias,1200,Käkisalmi,,lienee Victor 420158
+420257,Herman Dassou,M,,,,6001,Tukholma,,
+420258,Erik Hanson Willand,M,,,laivuri,1200,Käkisalmi,,
+420259,Eskill Tukia,M,styrman,,perämies,1200,Käkisalmi,,duplikaatti 420230
+420260,Catharina Peersdotter,N,,porvarin vaimo,,1200,Käkisalmi,Peersdotter,leski 1661
+420261,Birgitta,N,,porvarin tytär,,1200,Käkisalmi,,
+420262,NN,M,,porvari,,1200,Käkisalmi,,
+420263,Casper Grön,M,,pormestari,,1200,Käkisalmi,"Grönick, Gröön, Casper Gröön Junior",oli kuollut 1663
+420264,Catharina Wagner,N,borgmästerska,porvarin vaimo,,1200,Käkisalmi,,leski 1663
+420265,Johan Graan ,M,,,maaherra,1200,Käkisalmi,,
+420266,NN,,,,,1200,Käkisalmi,,
+420267,Jacob Röling,M,,,,1200,Käkisalmi,,oli kuollut 1663
+420268,Michel Larsson,M,,raatimies,,1200,Käkisalmi,,
+420269,Sasken,N,,,,1200,Käkisalmi,,
+420270,Henrik Larsson,M,,,merimies,1200,Käkisalmi,,
+420271,Lars Kåsoin,M,,,merimies,1200,Käkisalmi,,
+420272,Jöran Michellson,M,,,merimies,1200,Käkisalmi,,
+420273,Tobia Lasse,M,,porvari,,1200,Käkisalmi,, mahd. duplikaatti 420053
+420274,NN,M,,,,1200,Käkisalmi,,
+420275,Margaretha Eriksdotter,N,,,talonpojan vaimo,1200,Käkisalmi,,
+420276,Mattz Hölcki,M,,talonpoika,,2018,Pyhäjärvi,,
+420277,Anders Mårtenson,M,,,sotilas,1200,Käkisalmi,,
+420278,Walbor Hinrichsdotter,N,,,sotilaan vaimo,1200,Käkisalmi,,
+420279,Mattz Hämäläinen,M,,talonpoika,,,,,
+420280,Jürgen Klein,M,,,,1200,Käkisalmi,,onko sama kuin Jöran Klein 420287 aikaisemmin samassa casessa?
+420281,Mårten Winter,M,,,kauppias,1200,Käkisalmi,,
+420282,Arendt Beyer,M,,,,1200,Käkisalmi,Aron,onko Arendt Reyer 420413?
+420283,Erich Arvidsson Litzen,M,,,kaupunginsihteeri,1200,Käkisalmi,,
+420284,Koukumatti,M,,,,1200,Käkisalmi,,
+420285,Koukumatin leski,N,,,,1200,Käkisalmi,,
+420286,Lars Pirronen,M,,,,1200,Käkisalmi,Pirroinen,onko sama kuin Lars Pirhonen 420061?
+420287,Jöran Klein,M,,,,1200,Käkisalmi,,
+420288,Jöran Hindrichsson,M,,,,1200,Käkisalmi,,kuolleena 1663
+420289,Miska Cananoff,M,,,,1200,Käkisalmi,,"venäläinen, muuttanut Venäjälle viim. 1667"
+420290,Mårten Heinonen,M,,,sotilas,1200,Käkisalmi,,
+420291,Miska Kanonoff,M,,porvari,,1200,Käkisalmi,,mahd. duplikaatti 420289
+420292,Kussma Heick,M,,,,1200,Käkisalmi,,
+420293,Erich Düster,M,,,palkollinen,,,,
+420294,Berendt Timmerman,M,,raatimies,,1100,Nevanlinna,,Rådmannen i Skansen
+420295,Berendt Franck,M,,porvari,,1100,Nevanlinna,,"""i Skantzen"""
+420296,Cnut Höfwärin,M,,porvari,,1300,Sortavala,,
+420297,Jochim Fresse,M,postmestare,,postimestari,1200,Käkisalmi,Freese,
+420298,Jacob Böissman,M,,,,5002,Viipuri,,
+420299,Michell Düster,M,,raatimies,,1200,Käkisalmi,,
+420300,Heike Pirhonen,M,,kruununtilallinen,,2015,Tiurula,Pirroihnen,
+420301,Meelmatti Sippi,M,,porvari,,1200,Käkisalmi,Zippi,
+420302,Sijkar Dementson,M,,,,,,,kuoli ennen ruptuurisotaa
+420303,Rassi Mattinpoika Läphi,M,,porvari,,1200,Käkisalmi,,
+420304,Jöran Separain,M,,,,,,,
+420305,Albrecht Orbinski,M,,amptman,amptmanni,,,,
+420306,Johan Berendh,M,,porvari,,1300,Sortavala,Berenss,
+420307,Anders Grabbe,M,,,verovuokraaja,,,,
+420308,Erich Hinrichson Kuisma,M,,porvari,,1200,Käkisalmi,"Cuisma Erich, Kosma","köyhä 1200-1665-12-09a, mahd. duplikaatti 420219"
+420309,Hindrich Jonsson,M,,,kisälli,1100,Nevanlinna,,duplikaatti 420318?
+420310,Petter Hakkaraisen leski,N,,,,1200,Käkisalmi,,"leski vuonna 1665, mahd. jo 1663"
+420311,Petter Hakkarainen,M,Borgare,porvari,,1200,Käkisalmi,,"kuolleena vuonna 1665, mahd. jo 1663"
+420312,Johannes Canuti,M,,,kirkkoherra,2013,Salmi,,Salmin kirkkoherra
+420313,Tåhrron Ifwan,M,,,,1200,Käkisalmi,,"venäläinen, ennen ruptuuria käkisalmelainen"
+420314,Leski Skottehannus,N,,,,1200,Käkisalmi,,leski vuonna 1664
+420315,Philip Hämäläin,M,,,sotilas,1200,Käkisalmi,Hemmelain,
+420316,Sven Hindrichsson,M,,,pellavankutoja,1200,Käkisalmi,Svän,
+420317,Hans Bengtsson,M,,,profossi,1200,Käkisalmi,,
+420318,Hindrich Johansson,M,,,,1200,Käkisalmi,,
+420319,Anna,N,,,,,,,
+420320,Margareta Wagner,N,H. Blankenhagen seniorin vaimo,porvari,,,,,"vaimo vuonna 1665, k. n. 1679"
+420321,Johan Månsson,M,,raatimies,,1200,Käkisalmi,,duplikaatti 420229?
+420322,Johan Pärsson Fila,M,,,,1200,Käkisalmi,"Person, Fijla",
+420323,Michel Düster,M,,raatimies,,1200,Käkisalmi,Duster,duplikaatti 420299
+420324,Maria Hindrichsdotter,N,,,piika,1200,Käkisalmi,,leski vuonna 1665
+420325,Anders Newoin,M,,,sotilas,,,,
+420326,Lars Sigfredsson,M,,talonpoika,,2018,Pyhäjärvi,Sigfrijdßon,
+420327,Ante Pärsinen,M,,talonpoika,,2018,Pyhäjärvi,,
+420328,Rodivan Labanoff,M,,,,1200,Käkisalmi,Rådiwen,
+420329,Kuisma Offanasioff,M,,,,1200,Käkisalmi,Cuisma,
+420330,Jöran Rennare,M,,porvari,,1200,Käkisalmi,,
+420331,Hans Mortomer,M,handelsman,,kauppias,1100,Nevanlinna,Mortomeer,
+420332,Johan Grön,M,,,,1200,Käkisalmi,,Genin mukaan Casper Gröönin veli
+420333,Simon Brusisson,M,,porvari,,1200,Käkisalmi,,
+420334,Peter Schlöter,M,,,palkollinen,,,,
+420335,Jacob Grelsson,M,,raatimies,,,,,
+420336,Lukas Zitting,M,,porvari,,5002,Viipuri,,duplikaatti 420431?
+420337,Johan Johanson Orava,M,bauer,talonpoika,,2014,Kurkijoki,,
+420338,Hans Schmitt,M,,,,,,,
+420339,Petter Torstenßon,M,,,,,,,
+420340,Henrich Blankenhagen Junior,M,,,,1200,Käkisalmi,,yhdistetty 420255
+420341,Simon Larsson,M,,,,1200,Käkisalmi,,kuollut v. 1665 tai ennen
+420342,Elin Sawolain,N,Simon Larssons enka,,,1200,Käkisalmi,,
+420343,Berendt Permöller,M,,,palvelija,1200,Käkisalmi,,Berendt Timmermanin palvelija
+420344,Eskil Thomasson,M,,,tupakkakomppanian tarkastaja,1200,Käkisalmi,Eskill,
+420345,Anna Pedersdotter,N,,,tykistöluutnantin vaimo,1200,Käkisalmi,,artollerie Leutenanptens änka
+420346,artilleri leutenant,M,,,tykistöluutnantti,1200,Käkisalmi,,onko Arendt Reyer 420413?
+420347,Mathias Alhemius,M,,,inspektor,1200,Käkisalmi,"Alhelnius, Ahlenius",
+420348,Simon Hoppenstång,M,,,räntan inspektor,1200,Käkisalmi,,
+420349,Mathias Nemij,M,,,lääninfiskaali,1200,Käkisalmi,,landt fiscalen
+420350,Erik Steenbok,M,,kreivi,,,,,kuolleena 1671
+420351,Erich Nilsson,M,,,,,,,kuolleena 1652
+420352,Erich Nilssonin leski,N,,,,2016,Särkisalo,,"särkisalo, Ringporten"
+420353,Erich Kjällman,M,,,asianajaja ,1200,Käkisalmi,,
+420354,Elias From,M,,,pellavankutoja,1200,Käkisalmi,,
+420355,Olof Haltunen,M,,,suutari,1200,Käkisalmi,,
+420356,Sigfred Matzon,M,,porvari,,1200,Käkisalmi,,
+420357,Zacharias Joensson,M,,,kamreeri,1200,Käkisalmi,,"räntmästaren 1673, duplikaatti 420357?"
+420358,Simon Örtken,M,,,arrendatoren,1200,Käkisalmi,,
+420359,Johan Claesson,M,,,luutnantti,1200,Käkisalmi,,
+420360,Mathias Böök,M,,,räätäli,1200,Käkisalmi,,
+420361,Anders Person,M,,,konstaapeli,1200,Käkisalmi,,
+420362,Carl Roslindt,M,chergianten,,kersantti,1200,Käkisalmi,,duplikaatti 420243 (yo-matrikkeli)
+420363,Elisabeth Garder,N,,,,1200,Käkisalmi,,"1673 mainittu molemmat: postimestarin leski, vaimo"
+420364,Postmästare,M,,,postimestari,1200,Käkisalmi,,
+420365,Alexander Andersson,M,,,vänrikki,1200,Käkisalmi,,fenrichen
+420366,Niels Tornewigg,M,,,korpraali,1200,Käkisalmi,,corporalen under Ridderskapet
+420367,Samuel Påwelson Sihvo,M,,porvari,,1200,Käkisalmi,,onko 420011 duplikaatti?
+420368,Talposka,N,,vaimo,,1200,Käkisalmi,,
+420369,Nils Nilsson Talpo,M,,,,1200,Käkisalmi,,
+420370,Frasser,M,,,kapteeni,1200,Käkisalmi,,
+420371,Maria Pelkonen,N,,,,,,,leski vuonna 1674. duplikaatti 420738?
+420372,Michell Brusison,M,,porvari,,1200,Käkisalmi,,
+420373,Elin Jöransdotter,N,,porvari,,1200,Käkisalmi,,"leski vuonna 1674, "
+420374,Henrich Skomakare,M,,,,1200,Käkisalmi,,
+420375,Herich Skomakaren leski,N,,,,1200,Käkisalmi,,leski vuonna 1675
+420376,Jacob Larsson,M,stadstjänare,,,1200,Käkisalmi,,
+420377,Samuel Påelsson,M,styrman,,perämies,,,,"ainakin vaatii perämiehen palkkaa, duplikaatti 420011?"
+420378,Olof Johansson,M,,porvari,,,,,duplikaatti 420150?
+420379,Johan Eskillsson,M,skomakare,suutari,,,,,duplikaatti 420183?
+420380,Sigfrid Erichson,M,gymnsest,,,5002,Viipuri,,
+420381,Sophia Andersdotter,N,,,,,,,
+420382,Petter Scheder,M,Tobakz Inspektoren,,,,,,
+420383,Grels Erichson,M,,porvari,,1200,Käkisalmi,,
+420384,Uljana Terentijsdotter,N,M. Cananoffin vaimo,porvari,,1200,Käkisalmi,,"hoiti miehensä Cananoffin asioita, murhattiin leskenä 1671"
+420385,Hinrich Pirhoin,M,,,,1200,Käkisalmi,,mahd. duplikaatti 420036
+420386,Peter Urbanson,M,,talonpoika,,2015,Tiurula,,
+420387,Henrich Ordisk Wildman,M,,porvari,,1200,Käkisalmi,,
+420388,Mårten,M,,pastori,,2014,Kurkijoki,,
+420389,Lass Poika,M,,talonpoika,,,,,
+420390,Simon Cnutsson,M,,porvari,,,,,
+420391,Johan Johansson,M,,,,,,,duplikaatti 420043?
+420392,Petter Schultz,M,inspectoren,,,,,,"kuollut viim. 1672, saman niminen poika"
+420393,Jochim Gardling,M,,alilaamanni,arrendaattori,1200,Käkisalmi,"Joachim, Gardeling","1661 Käkisalmessa barberare, Mainittu Sakkolan käräjillä 1675-10-21, alilaamanni ja arrendaattori"
+420394,Thomas Carlson,M,constablen,,,1200,Käkisalmi,,
+420395,Hinrich Suikain,M,,,,1200,Käkisalmi,,
+420396,Hans Talopoika,M,,talonpoika,,2018,Pyhäjärvi,,
+420397,Thomas Olkonen,M,,,,1200,Käkisalmi,,
+420398,Johan Olkonen,M,,,,1200,Käkisalmi,,
+420399,Matts Olkonen,M,,,,1200,Käkisalmi,väärin kirjoitettu Thomas?,duplikaatti 420397?
+420400,Samuel Påhlsson,M,,porvari,,1200,Käkisalmi,,duplikaatti 420011?
+420401,Jacob Hindrichsson,M,,porvari,,1200,Käkisalmi,,
+420402,Clemet Rättika,M,,porvari,,1200,Käkisalmi,,duplikaatti 420023?
+420403,Påvel Tuckalain,M,,porvari,,1200,Käkisalmi,,"porvarivala 1.6.1678: Oluf Johansson, Johan Johansson och Jören Silfwast, och lofwade Påfwell till Staden 12 D:r koppar mynt, ollut aikaisemmin båtsman"
+420404,Johan Johansson,M,,porvari,,1200,Käkisalmi,,duplikaatti 420043?
+420405,Johan Suri,M,,,,,,,
+420406,Carin Matsdotter,N,,,,,,,leskenä krouvari
+420407,Olof Johanssonin vaimo,N,,,,1200,Käkisalmi,,duplikaatti 420151?
+420408,Jöran Johansson,M,,,,1200,Käkisalmi,,
+420409,Eskill Pirhonen,M,,,,1200,Käkisalmi,,duplikaatti 420250?
+420410,Johan Pirhonen,M,,,,1200,Käkisalmi,,duplikaatti 420251?
+420411,Brijta Michelssdotter,N,värdinna,,värtinna,1200,Käkisalmi,,
+420412,Elias Påhlsson,M,,porvari,,1200,Käkisalmi,,duplikaatti 420006?
+420413,Arendt Reyer,M,leutnampten,,luutnantti,1200,Käkisalmi,,
+420414,Jörgen Storck,M,,raatimies,,,,,
+420415,Johan Johansson,M,,,,1200,Käkisalmi,,Olof Johanssonin veli
+420416,Elsebeen Engelhagen,N,,,,1200,Käkisalmi,,leski v. 1681 alussa
+420417,Påel Påelsson,M,,,,1200,Käkisalmi,,
+420418,Hindrich Engelhagen,M,,,,,,,
+420419,Maria Erichsdotter Kondio,N,hustro,,,1200,Käkisalmi,,Lars Philipssonin leski
+420420,Perwoi Mitrioff,M,,,,,,,
+420421,Bertill Vinhagen,M,,,,,,,
+420422,Hinrich Jonsson,M,köpgesellen,,,,,,
+420423,Hans Wagner,M,,,,,,,
+420424,Jöran Meyer,M,,porvari,,1300,Sortavala,,
+420425,Evert Huck,M,,,,1100,Nevanlinna,,
+420426,Casper Martin,M,,,,,,,
+420427,Joseph Matsson,M,,,,,,,
+420428,Marcus Hoghenbärg,M,,,,,,,
+420429,Petter Lijnwäfware,M,,porvari,,,,,
+420430,Poika Matti,M,,porvari,,,,,
+420431,Lucas Zittung,M,,porvari,kauppias,,,,
+420432,Laurentius Stephani,M,,kirkkoherra,,1200,Käkisalmi,,kuollut viim. 1667
+420433,Jona Jaspersson,M,,raatimies,,1100,Nevanlinna,,
+420434,Lars Kämpin,M,,,,,,,
+420435,Henrich Henrichsson,M,Slachtare,,teurastaja,,,,
+420436,Elias From,M,Lijnwäfware,,,,,,duplikaatti 420354
+420437,Catharina Welleriansdotter,N,,,,,,,
+420438,Johan Matsson,M,,,,,,,mahd. duplikaatti 420102
+420439,Olof Johansson Lihapää,M,,,,1200,Käkisalmi,,
+420440,Anders Olufson,M,,talonpoika,,2015,Kilpola,,
+420441,Simon Hinrichson,M,,,,2010,Jaakkimanvaara,,
+420442,Matts Olkonen,M,fohrman,,,1200,Käkisalmi,,mahd. duplikaatti 420399
+420443,Jöran Nilsson Heike,M,,porvari,,1200,Käkisalmi,Jöran Heiki,
+420444,Mikita Lefwoska,M,,porvari,,1200,Käkisalmi,,
+420445,Jeremias Michelsson,M,,,,2014,Kurkijoki,,mahd. duplikaatti 420137
+420446,Eskill Thomasson,M,"besökare, tobaksbesökare",,tupakkakomppanian tarkastaja,1200,Käkisalmi,,duplikaatti 420344
+420447,Inge Petersdotter,N,dragons hustru,,,1300,Sortavala,,
+420448,Peter Andersson,M,glasmestare,,,1200,Käkisalmi,,mahd. duplikaatti 420242
+420449,Jochim Danckwardt,M,,,kultaseppä,,,,
+420450,Ondri Coroloff,M,,,,,,,ryssen
+420451,Claes Ambrosison,M,lijnwäfware gesäll,,,,,,Elias Fromin kisälli
+420452,Staffan Sigfredsson,M,,,,,,,mahd. duplikaatti 420070
+420453,Eskill Hinricsson Pirhoin,M,,,,1200,Käkisalmi,,
+420454,Samuel Påwelson Sihvo,M,styrman,porvari,perämies,1200,Käkisalmi,,"mahd. duplikaatit: 420011, 420367, 420400, 420377"
+420455,Sigfred Matzon,M,,porvari,,,,,"Staphans fader, mahd duplikaatti 420356"
+420456,Johan Eskilsson,M,,porvari,,1200,Käkisalmi,,mahd. duplikaatti: 420379
+420457,Jöran Jawanain,M,,talonpoika,,2016,Räisälä,,
+420458,Lars Öhrn,M,Arendatoren och Capitein,,,,,,
+420459,Christer Thomaßon,M,bårgare sånen,,,1600,Kurkijoki,,
+420460,Sigfrid Sigfredsson,M,,,,,,,Staphans broder
+420461,Hinrich Pirhoin,M,,,,,,,"Eskills fader, mahd duplikaatit 420036, 420385"
+420462,Peter Hannukain,M,Ryttare bonden,talonpoika,ratsutalonpoika,2015,Tiurula,,
+420463,Lars Jackonen,M,,talonpoika,lautamies,2015,Tiurula,,
+420464,Oluf Yhlienen,M,,talonpoika,lautamies,2015,Tiurula,,
+420465,Johan Nackuri,M,,talonpoika,lautamies,2015,Tiurula,,Pirrhoins Majamees
+420466,Jacob Eskillsson Safwolain,M,,talonpoika,lautamies,2015,Tiurula,,
+420467,Heike Karkain,M,,talonpoika,,2014,Kurkijoki,,
+420468,Eskill Paricka,M,,talonpoika,,2014,Kurkijoki,,
+420469,Michell Mattinpoika Sikin,M,,talonpoika,,2015,Hiitola,,
+420470,Mårten Pösse,M,,talonpoika,,,,,Cornet Iwar Böllian talonpoika
+420471,Lars Paxojalka,M,,talonpoika,,,,,Hebla Birkholtzin talonpoika
+420472,Matz Hemmeläin,M,,talonpoika,,,,,Capitein Fräßars talonpoika
+420473,Christer Matson Mykra,M,,talonpoika,,2016,Räisälä,,
+420474,Brusius Låtzon,M,,porvari,,1600,Kurkijoki,,
+420475,Christer La?,M,fohrman,,,,,,
+420476,Matz Olkonen,M,fohrman,,,,,,
+420477,Simon ?rris,M,,porvari,,1200,Käkisalmi,,Sigfridin ja poikien vihamies
+420478,Bärtill Thomasson Kasainen,M,,,,1200,Käkisalmi,,
+420479,Tobia Mari,N,,,,1200,Käkisalmi,,
+420480,Isak Larsson Hoffman,M,"Munsterskrivare, Capit: Jägarhorns Compagnie",,kapteeni,1200,Käkisalmi,,
+420481,Märta Johansdotter,N,,,,1200,Käkisalmi,,
+420482,Besken Hindrichsdotter,N,Rådman Jacob Grelssons hustru,,,1200,Käkisalmi,,
+420483,Hindrich Grelsson,M,,,,1200,Käkisalmi,,
+420484,Maria Pärsdotter Pälli,N,Hindrich Grelssons enka,,,1200,Käkisalmi,,leski v. 1681
+420485,Johan Kärkenen,M,,,,1200,Käkisalmi,,
+420486,Jörgen Vasilioff,M,,,,1200,Käkisalmi,,"ryss, hafft sitt qvarter hoos en Soldat, Hans Klockare"
+420487,Matz Håchtari,M,,,,1200,Käkisalmi,,
+420488,Helta Petersdotter Pirhonen,N,,,,1200,Käkisalmi,,
+420489,Michel Larsson Ruotinen,M,,,,1200,Käkisalmi,Rotinen,duplikaatti? 420268
+420490,Hedwig Gertzdotter,N,fältwebelens enckia,,,1200,Käkisalmi,,
+420491,Fältwebel,M,,,,1200,Käkisalmi,,
+420492,Michel Siwdh,M,,,,1200,Käkisalmi,,
+420493,Michel Siwdhin leski,N,,,,1200,Käkisalmi,,
+420494,Mårten Salicander,M,,,,1200,Käkisalmi,,
+420495,Elisabetha Engenhagen,N,,,,1200,Käkisalmi,,
+420496,Christian Huek,M,,raatimies,,1100,Nevanlinna,"Huuk, Huk",Aika varmasti duplikaatti 420252
+420497,Johan Röling,M,Huukz betiente,,,1200,Käkisalmi,,
+420498,Anders Pirhoin,M,,,,1200,Käkisalmi,,"10.11.1673 mainitaan ""Ante"""
+420499,Walborg Jörensdotter,N,,,,1200,Käkisalmi,,Leski (Sihvo) ja naimisissa Anders Pirhosen kanssa
+420500,Michel Sihvo,M,,,,1200,Käkisalmi,,"Michelin, Henrichin, Jeremiaksen jne isä. Perintöriita alkaa ehkä 1684"
+420501,Hindrich Pirhoin,M,,,,1200,Käkisalmi,,"duplikaatti? 420036, Pojat Petter, Anders ja Eskil (entä Hindrich Hindrichsson?)"
+420502,Petter Pirhoin,M,,,,1200,Käkisalmi,,"11.10.1673 mainitaan ""Peeko"""
+420503,Eskil Hindrichson Pirhoin,M,,,,1200,Käkisalmi,,"duplikaatti 420250, 420409 "
+420504,Hans Pölke,M,,porvari,,1100,Nevanlinna,"Pölck, Pölick",
+420505,Hindrich Boisman,M,probsten och kyrckioherden,,rovasti ja kirkkoherra,1200,Käkisalmi,Böisman,
+420506,Jöran Sperling,M,Baron General och Gouverneuren,aatelinen,,,,Göran,https://www.adelsvapen.com/genealogi/Sperling_nr_28
+420507,Ifwaska Tyni,M,dödgräfware,,haudankaivaja,1200,Käkisalmi,,
+420508,Lars Biur,M,probsten,papisto,rovasti,1200,Käkisalmi,,kuolleena 1684
+420509,Nils Repo,M,,porvari,,1200,Käkisalmi,,kuollut ehka 1682
+420510,Nils Repon leski,N,,,,1200,Käkisalmi,,
+420511,Mats Olkkonen,M,,,,1200,Käkisalmi,,
+420512,Didrich Boisman,M,cronones befallningsman,,,1200,Käkisalmi,Böisman,kuolleena v. 1699
+420513,Elin Hindersdotter,N,stadens krögerska,,krouvari,1200,Käkisalmi,,
+420514,Sigfred Merosen leski,N,,,,1200,Käkisalmi,,
+420515,Staffan Meroin,M,,,,1200,Käkisalmi,,duplikaatti? 420070. Jos samassa jutussa mainitut Sigfred Merosen leski ja Staffan Merosen äiti ovat sama hlö. Onko Staffan sitten Sigfridson?
+420516,Staffan Merosen äiti,N,,,,1200,Käkisalmi,,duplikaatti ? 420514
+420517,Söfring Curon,M,,,,1200,Käkisalmi,,
+420518,Beata Johansdotter,N,Söfringens hustru,,,1200,Käkisalmi,,
+420519,Anders Arbansson,M,linwäfware,,,1200,Käkisalmi,,
+420520,Johan Arbansson,M,linwäfware,,,1200,Käkisalmi,,
+420521,Anders Hindrichssonin vaimo,N,linwäwarens hustru,,,1200,Käkisalmi,,
+420522,Maria Carlsdotter,N,Hans Behms hustru,,,1200,Käkisalmi,,
+420523,Lars Michelsson,M,,,,1200,Käkisalmi,,kuolleena vuonna 1686
+420524,Anders Forsman,M,soldat,,sotilas,1200,Käkisalmi,,
+420525,Olof Lestenius,M,häradzskrifware,aatelinen,kihlakunnankirjuri,1200,Käkisalmi,,befallningsman
+420526,Elisabetha Harder,N,Joachim Freses enka,,,1200,Käkisalmi,,leskenä 1868
+420527,Herman Frese,M,handelsman,porvari,kauppias,5002,Viipuri,,
+420528,Jacob Frese,M,handelsman,porvari,kauppias,5002,Viipuri,,
+420529,Margareta Lehusen,N,Didrich Barkhusens effterlefanska,,,5002,Viipuri,,
+420530,Didrich Barkhusen,M,,raatimies,,5002,Viipuri,,
+420531,Petter Sivan,M,regementskrifware,,,1200,Käkisalmi,,
+420532,Catharina Barkhusen,N,probstinna,,,1200,Käkisalmi,,genin mukaan syntynyt Viipurissa ja kuollut Käkisalmessa 1690
+420533,Mårten Mäkeläin,M,,,,,,,
+420534,Mårten Grän,M,,,,1200,Käkisalmi,Grån,
+420535,Mårten Mäkeläisen leski,N,,,,,,,
+420536,Erich Nyländer,M,,porvari,,,,,duplikaatti 420173 ?
+420537,Valborg Jöransdotter,N,borgare enka hustru,,,,,,voiko olla duplikaatti 420499
+420538,Johan Khim,M,styckjunckare,,,,,,
+420539,Magdalena Mårtensdotter,N,Olof Leisteniis hustru,aatelinen,,,,,
+420540,Carl Johansson,M,broofogden,,siltavouti,,,,
+420541,Fatti Jacobsson Pullicka,M,,talonpoika,,2012,Sumeria,,
+420542,Ante Ruini,M,löösdrifware,irtolainen,,,,,
+420543,Elias Nielsson,M,,porvari,,,,,mahd. duplikaatti 420181
+420544,Peter Käckön,M,Kymneken,,,2016,Suotniemi,,
+420545,Johan Matsson Jaatin,M,,,,1200,Käkisalmi,,
+420546,Mathias Jatin,M,,raatimies,,1200,Käkisalmi,Matz Jatinen,
+420547,Johan Wästerhusen,M,,,,,,,
+420548,Hinrich Ortuska,M,,,,,,,mahd. duplikaatti 420387
+420549,Johan Ortuska,M,fenrich,vänrikki,,,,,
+420550,Brita Olofsdotter,N,Johan Hoffmans hustru,,,1200,Käkisalmi,,
+420551,Johan Hoffman,M,constapel,,,1200,Käkisalmi,,
+420552,Johan Larsson,M,,porvari,,1200,Käkisalmi,,duplikaatti 420222? 
+420553,Brita Michelsdotter,N,Johan Larssons enka,porvari,,1200,Käkisalmi,,duplikaatti 420175? Jos on niin on pitänyt olla uudelleen naimisissa (toisella mies Michelsson)
+420554,Anders Linwäfware,M,,,,1200,Käkisalmi,,Hindrichsson?
+420555,Elin Urbansdotter,N,Anders Linwäfwarens hustru,,,1200,Käkisalmi,,
+420556,Maria Walkonen,N,Anders Walkonens enka,,,1200,Käkisalmi,,
+420557,Fabian Isacii Nirco,M,Garnisons Predikanten,papisto,jalkaväkirykmentin saarnaaja,1200,Käkisalmi,,https://ylioppilasmatrikkeli.fi/henkilo.php?id=2706
+420558,Margareta Lindormi,N,Fabian Nicron vaimo,,,1200,Käkisalmi,,
+420559,Johan,M,skräddare,,vaatturi,1200,Käkisalmi,,
+420560,Christin Hindrichsdotter,N,Johans hustru,,,1200,Käkisalmi,,
+420561,Christina Larsdotter,N,rådman Hindrich Michelssons enka,,,1200,Käkisalmi,,
+420562,Hindrich Herber,M,soldat,,sotilas,1200,Käkisalmi,herbersson,
+420563,Anna Andersdotter,N,Henrich Herbers enka,,,1200,Käkisalmi,,
+420564,Anna Mattsdotter,N,Anna Andersdotters dotter,,,1200,Käkisalmi,,
+420565,Thomas Melander,M,brofogde,,siltavouti,1200,Käkisalmi,,
+420566,Jacob Ojala,M,,,,1200,Käkisalmi,,
+420567,Geska Hindrichsdotter,N,Ojala Jacobs enka,,,1200,Käkisalmi,,
+420568,Petter Routiain,M,förridare,,,1200,Käkisalmi,,duplikaatti 420632?
+420569,Malin Johansdotter,N,"krögerska, Petter Routiains enka",,,1200,Käkisalmi,,leskena toimi Gröönin krouvissa krouvarina
+420570,Hindrich Luhr,M,handelsman,,,1100,Nevanlinna,,
+420571,Maria Simonsdotter,N,brofogdens hustro,,,1200,Käkisalmi,,
+420572,Johan Adolph Palmgröön,M,fäldskäre,,välskäri,1200,Käkisalmi,,
+420573,Christin Åhl,N,Palmgrööns hustru,,,1200,Käkisalmi,,
+420574,Reinholdt Hertz,M,kyrkoherde,papisto,kirkkoherra,2010,Jaakkimanvaara,Hartz,Käkisalmen pedagogion rehtori 1674. Jaakkiman kirkkoherra 1691. † Jaakkimassa keväällä 1700. https://ylioppilasmatrikkeli.fi/henkilo.php?id=1954
+420575,Elisabeth Hertz,N,Reinholdt Hertz syster,,,1100,Nevanlinna,Liskin,
+420576,Carl Åhl,M,Guldsmeden,,,1100,Nevanlinna,,
+420577,Carin Krydi,N,barnmoderska,,,1200,Käkisalmi,,
+420578,Lars Månsson,M,länsman,,nimismies,1200,Käkisalmi,,Christina Larsdotterin isä
+420579,Johan Hindrichsson,M,,,,1200,Käkisalmi,,Hindrich M. Sihvon poika
+420580,Brita Hindrichsdotter,N,,,,1200,Käkisalmi,,Hindrich M. Sihvon tytär
+420581,NN,,,,velkojat Nevanlinnassa,1100,Nevanlinna,,
+420582,Johan Serlachius,M,probsten magister,,,1200,Käkisalmi,,
+420583,Elin Bertilsdotter,N,,,,1200,Käkisalmi,,
+420584,Maria Johansdotter,N,,,,1200,Käkisalmi,,
+420585,Petter Rautiain,M,förrijdare,,,1200,Käkisalmi,,
+420586,skomakare,M,,porvari,,1200,Käkisalmi,,
+420587,Catharina Fabritz,N,kyrckioherdens enka,,,2006,Pälkjärvi,,
+420588,Sigfred Auvonius?,M,kyrckoherde,,,1200,Käkisalmi,,
+420589,Matts Olkkonen,M,,,,1200,Käkisalmi,,"duplikaatti 420399, 420442, 420476?"
+420590,Matts Hirvoin,M,,porvari,,1200,Käkisalmi,,porvarivala 1693
+420591,Staffan Muhonen,M,,porvari,,1200,Käkisalmi,,kuolleena 1693
+420592,Staffan Muhosen leski,N,,,,1200,Käkisalmi,,
+420593,Hindrich Lottzonin leski,N,,,,1200,Käkisalmi,,
+420594,Petter Pirhosen leski,N,,,,1200,Käkisalmi,,
+420595,Erich Kaasoin,M,,,,1200,Käkisalmi,"Kasalain, Casalain",
+420596,Conrad Siliakz,M,,,,1100,Nevanlinna,,
+420597,Anna Luhr,N,Conrad Siliakz enkia,,,1200,Käkisalmi,,
+420598,Friedrich Hellingsten,M,wachtmästare,,,1200,Käkisalmi,,
+420599,Maria Rijk,N,Friedrich Hellingstens enka,,,1200,Käkisalmi,,
+420600,Catharina Reyer,N,Inspectorens sal. Baggens Enckia,,,1200,Käkisalmi,,
+420601,Inspectoren Bagge,M,inspectoren,,,1200,Käkisalmi,,
+420602,Johan Meroin,M,,porvari,,1200,Käkisalmi,,
+420603,Anna Simonsdotter Lefwoska,N,Hindrich Låttsons enka,,,1200,Käkisalmi,,
+420604,NN,,,,,6001,Tukholma,,Kauppiaat Tukholmassa
+420605,NN,,,,,6001,Tukholma,,"Hinnelin kanssa Tukholmaan hallinnollisissa asioissa, muusta ei mainita"
+420606,NN,,,,,6001,Tukholma,,kauppiaat Tukholmassa
+420607,Isac Kyykä,M,,,,1200,Käkisalmi,,
+420608,Lars Krook,M,luutnantti,aatelinen,,1200,Käkisalmi,,
+420609,Helena Colliander,N,Mårten Thoraniis enka,papisto,,1300,Sortavala,Colliandrae,kirkkoherran leski 1697
+420610,Mårten Thoranius,M,,papisto,kirkkoherra,1300,Sortavala,,Martinus H. Thoranius Sortavalan maaseurakunnan kirkkoherra 1681-86
+420611,Johan Aritlander,M,,porvari,,?,,Ardlander,duplikaatti 420768?
+420612,Erich Michelsson,M,bokhållare,,kirjanpitäjä,1200,Käkisalmi,,
+420613,Helena Alhemio,N,Erich Michelssons enka,,,1200,Käkisalmi,,sukua Mathias Alhemius?
+420614,Matts Brusiuson,M,,porvari,,1200,Käkisalmi,,duplikaatti? 420055
+420615,Carl Ludwick,M,Helena Alhemios son,,,1200,Käkisalmi,Ludwijk,
+420616,Erich Nylander,M,,,,1200,Käkisalmi,,duplikaatti 420173?
+420617,Maria,N,Erich Nylanders enka,,,1200,Käkisalmi,,
+420618,Lars Matson Huukanen,M,dräng,,renki,1200,Käkisalmi,,
+420619,Hindrich Ruotsalainen,M,,porvari,,1200,Käkisalmi,,
+420620,Andruska Michitin,M,,,,1100,Nevanlinna,Ondruska,ryss
+420621,Michel Liimatta,M,,,,1200,Käkisalmi,,
+420622,Hindrich Kryssman,M,,,,1200,Käkisalmi,,
+420623,Johan Hollender,M,rector schola,,,1200,Käkisalmi,,
+420624,Mårten Hestsko,M,Commendanten,aatelinen,,1200,Käkisalmi,,
+420625,Söfring Toifwainen (Junior),M,,,,1200,Käkisalmi,,s. noin vuonna 1686
+420626,Michel Asikainen,M,lös karl,,,1200,Käkisalmi,,
+420627,Jacob Lund,M,,porvari,,1100,Nevanlinna,,
+420628,Lars Sihvo,M,,,,1200,Käkisalmi,,
+420629,Liskin,N,,,,1200,Käkisalmi,,
+420630,Bertil Kuha,M,,,,1200,Käkisalmi,,
+420631,Lasarus Talikainen,M,bonde,,,1200,Käkisalmi,,
+420632,Petter Ruini,M,,,,1200,Käkisalmi,,Ruinin toinen vaimo Carin Olofsdotter
+420633,Carin Olofsdotter,N,Petter Ruinis hustru,,,2018,Pyhäjärvi,,
+420634,Johan Bengtsson,M,amptman,,,?,?,,
+420635,Johan Bengtssonin isä,M,Johan Bengtssons sahl. Fader,,,5002,Viipuri,,
+420636,Anders Mutka,M,,raatimies,,1300,Sortavala,,
+420637,Samuel Sihvo,M,styrman,,,1200,Käkisalmi,,duplikaatti ? 420367
+420638,NN,,,,,1200,Käkisalmi,,
+420639,Valborg Erichsdotter,N,Samuel Sihvos enka,,,1200,Käkisalmi,,leski v. 1699
+420640,Didrich Boismanin perilliset,,sterbhus eller arvingar,,,1200,Käkisalmi,,
+420641,Hindrich Simonsson Blankenhagen,M,gränsinspectoren,,,1200,Käkisalmi,,"(senior), Simonsson, k. 1656"
+420642,Jochim Barling,M,,,,,,,onko sama kuin Jochim Gardling 420393?
+420643,Bengt Skytte,M,,aatelinen,,6001,Tukholma,,
+420644,Elisabeth Klochman,N,Jacob Ruuths enka,,,,,,leskenä v 1672
+420645,Jacob Ruuth,M,ryttmästare,,,,,,kuolleena 1672
+420646,Anthoni Burchardt,M,,raatimies,,5002,Viipuri,,Lienee samanniminen Viipurilainen raatimies t. AH
+420647,Hindrich Köning,M,,,,,,,
+420648,Anna Freese,N,Peter Ruuth Peterssons enka,,matrona,,,,
+420649,Peter Ruuth Petersson,M,handelsmannen,porvari,,,,,kuolleena v. 1675
+420650,Mårten Tusa,M,,,,1100,Nevanlinna,,
+420651,Mårten Tusan leski,N,Mårten Tuhas enka,,,1100,Nevanlinna,,
+420652,Lastika Påvelsdotter,N,Ante Ruinis hustru,,,1200,Käkisalmi,,
+420654,Eva Mikitanpoika,M,Miska Cananoffin poika,,,2015,Tiurula,,
+420655,Michel Düsterin vaimo,N,Michel Düsters hustru,porvari,,1200,Käkisalmi,,
+420656,Carin Påvelsdotter,N,Johan Månssons enka,porvari,,1200,Käkisalmi,,raatimiehen vaimo
+420657,Lars Philipson,M,,,,,,,
+420658,Lars Jacobsson Wirolain,M,skräddare,,,,,,duplikaatti ? 420163
+420659,NN,,,,,,,,tupakanostajat
+420660,Mathias Michelsson,M,,,,,,,edesmennyt 1674
+420661,Jeremias Michelsson,M,,,,,,,"mahd. duplikaatti 420137, 420445"
+420662,Paramon Labanoff,M,,,,1200,Käkisalmi,,ven. tai karj.
+420663,NN,N,,,,1200,Käkisalmi,,Samuel Påelssonin vaimo
+420664,NN,N,,,,,,,"Paramon Labanoffin sisko, asuu jossain maalaispitäjässä"
+420665,Ondri Coroloff,M,,,,1300,Sortavala,,"ryssen, kotipaikkaa ei sanottu eksplisiittisesti!, duplikaatti 420450?"
+420666,Hinrich Hinrichson,M,smeden,,seppä,1200,Käkisalmi,,
+420667,Hans von Wangersen,M,handelsmannen,porvari,kauppias,1100,Nevanlinna?,,"sukua Tallinnassa (Melander 1900, Hark 16), mahd. myös Johann von Wangersheim. Mainittu Nevanlinna RO 1 s. 179"
+420668,Mårten Crispinus,M,,,,,,Crispinum (taivutettu),"Wangersenin edustaja, Crispinus on etunimi"
+420669,Christian Hecker,M,förra Stadz secret:,,kaupunginkirjuri,1200,Käkisalmi,,kuollut viim. 1666 tammikuussa
+420670,Samuel Kröels,M,,,,1200,Käkisalmi,Cröels,
+420671,Peter Larsson,M,Erik Kasalains båtsman,,,,,,
+420672,Olli Muhonen,M,Bernt Kasalains båtsman,,,,,,
+420673,Simon Pirhonen,M,,,,,,,
+420674,Johan Strengman,M,Guldsmeden,,kultaseppä,,,,
+420675,Sara Gammal,N,kauppiaan anoppi,,,1200,Käkisalmi,,
+420676,Jürgen Starck,M,,raatimies,,1200,Käkisalmi,,"kuolleena v. 1691, tontti Karjaportin luona"
+420677,Carl Kräfta,M,archlimestare,,,,,,
+420678,Hindrich Kapanen,M,stadscorporalen,,,,,,
+420679,Hindrich Kapanens hustru,N,,,,,,,
+420680,Johan Larsson,M,constabeln,,,,,,duplikaatti 420222? 420552
+420681,Anna Margareta Twilling,N,C. Printzs hustru,,matrona,,,,
+420682,Carl Printz,M,,,,,,,
+420683,Anna Bruun,N,,,matrona,,,,
+420684,Margareta Capraa,N,C. Boismansa hustru,,matrona,,,,leski vuonna 1699
+420685,Rassmus Matsson,M,,porvari,,,,,
+420686,Påul Sorckin,M,,,,,,,
+420687,Påul Sorckinin vaimo,N,,,,,,,
+420688,Sigfred Matsson Meronen,M,,porvari,,1200,Käkisalmi,Meronen,"duplikaatti? 420040, 420356, 420455"
+420689,Tretko Kyykä,M,,,,1200,Käkisalmi,Kyka,"duplikaatti 420111? --> vai onko tämän isä, koska tehnyt kauppaa 1660-luvulla?"
+420690,Vasili Kyykä,M,Tretko ja Vasil Kyykän isä,,,1200,Käkisalmi,,toinen poika Vasili
+420691,Erich Michelsson Düster,M,,,,1200,Käkisalmi,,duplikaatti? 420293
+420692,,,,,,,,,
+420693,Margareta Hindrichsdotter,N,Hindrich Klåckares dotter,,,1200,Käkisalmi,,
+420694,Hindrich Klåckare,M,Klåckare,,,1200,Käkisalmi,,
+420695,Simon Gorboff,M,rysk kiöpman,,kauppias,8001,Aunus,,kotipaikaksi merkitty Agnismo
+420696,Simon Brusison,M,,,,1200,Käkisalmi,,Jakobin veli
+420697,Jakob Brusison,M,,porvari,,1200,Käkisalmi,,Simonin veli
+420698,Michel Larsson Sihvo,M,,,,,,,duplikaatti 420500?
+420699,Sigfred Pirhoin,M,,,,,,,"nuoremman Hinrich Pirhosen veli, Staffanin isä"
+420700,Calina Nassarioff,M,borgaren,porvari,,8001,Aunus,,
+420701,Måns Andersson Palmqvist,M,hoppmannen,,nimismies,,,,
+420702,Peter Bock,M,,,,,,,Wangersenin asialla
+420703,Grels Erichson,M,,,,1200,Käkisalmi,,duplikaatti 420383?
+420704,Christoff Koch,M,,,,8006,Moskova,Christopher Kock,Räävelin saksalaisia Ruotsin kruunun edustajana Moskovassa ks. doi.org/10.1163/9789004362871_007 
+420705,Gustaf Jonsson,M,jung dräng,,renki,3001,Kuopio,,
+420706,Johan,M,,,,3001,Kuopio,,
+420707,Göran Pässi,M,båtzman,,,2016,Järvenpää,Pässinen,
+420708,Anders Pirhoin,M,,,,1200,Käkisalmi,,"Johanin poika, duplikaatti 420498?"
+420709,Johan Pirhoin,M,,,,1200,Käkisalmi,,Eskilin veli
+420710,Elias Påelsson Sihvo,M,,,,1200,Käkisalmi,,"Påwelin ja Samuelin veli, mahd. duplikaatit 420006, 420412"
+420711,Påwel Påelsson Sihvo,M,,,,1200,Käkisalmi,,"Eliaksen ja Samuelin veli, mahd. duplikaatti 420417"
+420712,Påwel Sihvo,M,,,,,,,"Påwelin, Eliaksen ja Samuelin isä, kuolleena 1679"
+420713,Söfring Hinrichson Hassi,M,bonde,talonpoika,,2014,Leppälahti,,
+420714,Eskil Haikonen,M,borgare,porvari,,1200,Käkisalmi,,Hinrich Pirhosen lanko
+420715,Christian Hurck,M,,,,,,,onko sama kuin Huek?
+420716,Jöran Rassmusson,M,,,,,,,Rassmus Matzonin poika
+420717,Thomas Kopio,M,,,,2017,Sakkola,,
+420718,Mårten Hinderson,M,bonde,talonpoika,,2015,Haapalahti,,
+420719,Fomka Ifwanof,M,,,,8002,Ladoga,,
+420720,Jefima Staffioff,M,,,,8002,Ladoga,,
+420721,Ante Kettola,M,bonde,talonpoika,,2008,Villala,,
+420722,Federoff Lukinia,M,,,,8002,Ladoga,,
+420723,Teres Jermonof,M,een Rysse ifrån Aunis,,,8001,Aunus,,
+420724,Climo Gutkeson,M,borgare,porvari,,1600,Kurkijoki,,
+420725,Johan Pasanen,M,,,,,,,
+420726,Pasanens fader,M,,,,,,,kuolleena 1684-02-16
+420727,Abraham Warg,M,,,,1100,Nevanlinna,Warge,
+420728,Abraham Wargs fader,M,,,,1100,Nevanlinna,,kuolleena 1684-04-05
+420729,Elias Kuha,M,,,,,,,
+420730,Johan Michelson,M,,,,,,,
+420731,Melcher Kuhonen,M,ryssen,,,,,,
+420732,Eskil Jakobson,M,,,,1200,Käkisalmi,,duplikaatti 420098?
+420733,Petter Slyter,M,handelsmannen,porvari,kauppias,1100,Nevanlinna,,
+420734,Erich Kosma,M,,,,1200,Käkisalmi,,duplikaatti 420308?
+420735,Hans Jürgen,M,handelsmannen,porvari,,1100,Nevanlinna,,
+420736,Otto Såldan,M,handelsmannen,porvari,kauppias,1100,Nevanlinna,,
+420737,Håkan Laitinen,M,,,,,,,
+420738,Maria Pelkoin,N,,,,,,,duplikaatti 420130?
+420739,Maxim Ofanasioff,M,ryssen,,,,,,"ei mainittu kotipaikkaa, tullut laivalla"
+420740,Anna Simonsdotter,N,,,,,,,duplikaatti 420603?
+420741,Mårten Siliakz,M,,,,1100,Nevanlinna,,Conradin edustaja
+420742,Lars Thomasson,M,,,,2015,Mustala,,
+420743,Florentz Ahlholm,M,rådman,raatimies,,1200,Käkisalmi,,
+420744,Boo Larsson,M,feldwäbel,vääpeli,,1200,Käkisalmi,,
+420745,Mats Jääskeläin,M,stadscorporalen,,,1200,Käkisalmi,,duplikaatti 420012?
+420746,Påwel Ojala,M,,,,1200,Käkisalmi,Påål,duplikaatti 420202?
+420747,Lars Gustafson,M,,,,,,,duplikaatti 420143?
+420748,Anders Pirhoin,M,rådman,raatimies,,1200,Käkisalmi,,"duplikaatti 420498, 420708?"
+420749,Anders Tillikain,M,,,,1200,Käkisalmi,,
+420750,Gabriel Mårtenson,,,porvari,,1600,Kurkijoki,,
+420760,Lars Nyhanen,M,,,,1200,Käkisalmi,,
+420761,Erich Hiqvinum,M,cappellanen,,kappalainen,1200,Käkisalmi,,
+420762,Anders Boumgård,M,handelsmannen,porvari,kauppias,1100,Nevanlinna,,
+420763,Anders Christersson Häckinen,M,bonde,talonpoika,,2018,Pyhäjärvi,,
+420764,Anders Sallinen,M,borgare,porvari,,1200,Käkisalmi,,duplikaatti 420038?
+420765,Michell Asikainen,M,,,,1200,Käkisalmi,,"Talo Siikaniemessä 1698, duplikaatti 420626?"
+420766,Magdalena Lorenzdotter,N,,,,1200,Käkisalmi,,
+420767,Jonas Sigfredson,M,,,,1200,Käkisalmi,,
+420768,Johan Aridlander,M,,,,,,,
+420769,Herman von Zollen,M,källarmasteren,,,5002,Viipuri,,
+420770,Johan Heuri,M,,,,,,,
+420771,Thomas Simonsson Lefwoska,M,raatimiehen poika,,,1200,Käkisalmi,,10.11.1673 12-13-vuotias
+420772,Jarafei Mikitasson,M,venäläinen ,,,8001,Aunus,,
+420773,Ondrei Vepsä,M,Tretko Kyykän vävy,,,,,,"ei sanota mistä kotoisin, mutta karannut Venäjälle"
+420774,Bertil Turdinen,M,,,,1200,Käkisalmi,,
+420775,Clemet Tiaruwräkare,M,Tiaruwräkare,,tervatarkastaja,5002,Viipuri,,
+420776,Walborg Matzdotter,N,Tiaruwräkares hustru,,,5002,Viipuri,,
+420777,Elisabetha Hiskou,N,Jacob Grööns hustru,,,1200,Käkisalmi,,
+420778,Johan Hiskou,M,befallningman,,,,,,
+420779,Jöran Sperlingin leski,N,enkia,,,,,,
+420780,Mats Kosma,M,,,,1200,,,
+420781,Eskill Pirhosen vaimo,N,,,,1200,,,
+420782,Lars Kosonen,M,,,,,,,
+420783,Jacob Ruotinen,M,vanhempi,,,,,,
