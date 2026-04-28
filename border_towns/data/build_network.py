@@ -8,6 +8,46 @@ from trogon import tui
 import pandas as pd
 import yaml
 
+classifier = {
+    'rahavelka': 'talous', 
+    'vanhempi': 'sukulaisuus', 
+    'kauppa': 'talous',
+    'avioliitto': 'sukulaisuus',
+    'kunnia': 'negatiiviset',
+    'sisarus': 'sukulaisuus',
+    'lanko': 'sukulaisuus',
+    'velka': 'talous', 
+    'eno': 'sukulaisuus',
+    'täti': 'sukulaisuus',
+    'valtuutus': 'talous',
+    'isotäti': 'sukulaisuus', 
+    'pantti': 'talous', 
+    'riita': 'negatiiviset', 
+    'edustaja': 'talous', 
+    'vihamies': 'negatiiviset', 
+    'takaus': 'talous',
+    'tavaravelka': 'talous', 
+    'isäpuoli': 'sukulaisuus', 
+    'palkollinen': 'talous', 
+    'matkusti yhdessä': 'talous',
+    'appivanhempi': 'sukulaisuus', 
+    'kauppakumppani': 'talous', 
+    'muu yhteys': 'muu', 
+    'väkivalta': 'negatiiviset',
+    'serkku': 'sukulaisuus', 
+    'laiva': 'talous', 
+    'sisarenpoika': 'sukulaisuus', 
+    'yhtiökumppani': 'talous',
+    'yhtiökumppanuus': 'talous', 
+    'omaisuus': 'negatiiviset', 
+    'käly': 'sukulaisuus', 
+    'perintöriita': 'negatiiviset', 
+    'perintö': 'negatiiviset', 
+    'varkaus': 'negatiiviset', 
+    'äitipuoli': 'sukulaisuus', 
+    'isovanhempi': 'sukulaisuus',
+    'hevoskauppa': 'talous',
+    }
 
 @tui()
 @click.command()
@@ -53,6 +93,7 @@ def main(
     network = edges.merge(nodes, right_on=node_key, left_on=edge_key_1)
     network = network.merge(nodes, right_on=node_key, left_on=edge_key_2, suffixes=['_source', '_target'])
     network.drop(columns=['hlotunnus_source', 'hlotunnus_target'], inplace=True)
+    network['teema'] = network.tyyppi.apply(lambda k: classifier.get(k, pd.NA))
 
     if duplicates:
         logger.info('Removing duplicates')
