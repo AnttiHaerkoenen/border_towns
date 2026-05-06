@@ -116,7 +116,13 @@ def main(
         regex=True,
         inplace=True,
         )   # Cytoscape does not allow commas in cells!
+    
     network.to_csv(output_fp, na_rep='NA', quotechar='"')
+    for cat in ('talous', 'sukulaisuus', 'negatiiviset'):
+        cat_data = network[network.teema == cat]
+        catfp = Path(output_fp.parent / f'{output_fp.stem}_{cat}{output_fp.suffix}')
+        cat_data.to_csv(catfp, na_rep='NA', quotechar='"')
+
     logger.info(f'Network saved to {output_fp}')
     return 0
 
