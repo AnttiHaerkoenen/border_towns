@@ -1,11 +1,13 @@
 # Nevanlinna
-410135: [420159] # Anthoni Timmerman
-410152: [430013, 420255, 420340] # Hindrich Blankenhagen nuorempi
-410011: [420201] # Diedrich Blom
-410021: [420253, 420570] # Hindrick Luhr
-410057: [420496, 420252, 420715] # Christian Hueck
+410135: [420159, 430713] # Anthoni Timmerman
+410152: [430013, 420255, 420340, 430013] # Hindrich Blankenhagen nuorempi
+410011: [420201, 430526] # Diedrich Blom
+410021: [420253, 420570, 430108, 430542] # Hindrick Luhr
+410057: [420496, 420252, 420715, 430245] # Christian Hueck
 410027: [420762] # Andreas Boumgardt
 410150: [420084, 420735] # Johan Jürgen Jänish
+420733: [430057] # Petter Schlyter
+420741: [430223] # Mårten Ziliak
 # Käkisalmi
 420017: [420213] # Anders Erichsson
 420498: [420708, 420748] # Anders Pirhoin
@@ -22,7 +24,7 @@
 420055: [420614]
 420287: [420280] # Jöran Klein
 420393: [420642] # Joachim Gardling
-420011: [420454, 420367, 420400, 420377] # Samuel Påelson Sihvo, omistaa laivan vanhemman Hinrich Pirhosen kanssa, riidoissa toisen HP:n kanssa
+420011: [420454, 420367, 420400, 420377, 430898] # Samuel Påelson Sihvo, omistaa laivan vanhemman Hinrich Pirhosen kanssa, riidoissa toisen HP:n kanssa
 420710: [420006, 420412] # Elias Påelson Sihvo
 420711: [420417] # Påel Påelson Sihvo
 420385: [420036] # Hinrich Pirhonen, joka riitelee Samuel Påelsonin kanssa
@@ -33,3 +35,6 @@
 420344: [420446] # tupakkatarkastaja
 420053: [420273] # Tobia Lasse
 420336: [420431] # Lukas Zitting
+# Sortavala
+430835: [450319] # Hindrich Hyfwöin
+430357: [450507] # Petter Hulckoin
